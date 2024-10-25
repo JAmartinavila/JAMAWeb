@@ -5,11 +5,6 @@ toc: true
 
 ### Articles
 
-- Quintero, Rodríguez‐Sánchez, Jordano (2022) [Reciprocity and interaction effectiveness in generalised mutualisms among free‐living species](https://doi.org/10.1111/ele.14141). *Ecology Letters* 26 (1): 132-146. [[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.14141)]
-
-- Rodríguez-Sanchez, Pérez-Luque, Bartomeus, Varela (2016) [Ciencia reproducible: ¿qué, por qué, cómo?](https://doi.org/10.7818/ECOS.2016.25-2.11). *Ecosistemas* 25 (2): 83-92
-
-### Book chapters
-
-
-
+-   Martín‐Ávila, J. A., Rebollo, S., Fernández‐Pereira, J. M., & Díaz‐Aranda, L. M. (2024) [The trophic strategy of the European honey‐buzzard Pernis apivorus during breeding: extravagant specialization or ingenious solution?](https://doi.org/10.1111/jav.03221). *Journal of Avian Biology* e03221 \[[PDF](https://nsojournals.onlinelibrary.wiley.com/doi/pdf/10.1111/jav.03221)\]
+-   Lorente-Casalini, O., Rodes-Blanco, M., Aguirre-Iglesias, S., Martín-Ávila, J. A., Molina, D. S. S., Tijerín-Triviño, J., & Astigarraga, J. (2024) [Tidyverse: colección de paquetes de R para la ciencia de datos](https://doi.org/10.7818/ECOS.2745). *Ecosistemas* 33 (3): 2745-2745 \[[PDF](https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/2745/1832)\]
+-   Rebollo, S., Díaz-Aranda, L. M., Martín-Ávila, J. A., Hernández-García, M., López-Rodríguez, M., Monteagudo, N., & Fernández-Pereira, J. M. (2023) [Assessment of the consumption of the exotic Asian Hornet Vespa velutina by the European Honey Buzzard Pernis apivorus in southwestern Europe](https://doi.org/10.1080/00063657.2023.2244258). *Bird Study* 70 (3): 136-150
