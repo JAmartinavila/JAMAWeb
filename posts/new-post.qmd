@@ -6,4 +6,4 @@ categories:
   - computational
 ---
 
-![](DSC01147.jpg)
+![](Carabo.jpg)
