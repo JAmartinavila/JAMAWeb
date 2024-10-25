@@ -1,10 +1,12 @@
 ---
-title: "Computational Ecology"
+title: "EVALUAVE"
 image: code.jpg
 # categories: 
 #   - ecoinformatics
 ---
 
-A computational approach to tough questions in ecology
+Assessing avian functions and ecosystem services in
+agroforestry systems - Evaluación de funciones y servicios ecosistémicos de la
+avifauna en sistemas agroforestales - (EVALUAVE)
 
-![](code.jpg)
+![](EVALUAVE.jpg)
