@@ -4,7 +4,7 @@ description: "A special neighbour"
 author: "Jorge Ángel Martín Ávila"
 image: Carabo.jpg
 categories:
-  - computational
+  - Naturalist
 ---
 
 ![](Carabo.jpg)

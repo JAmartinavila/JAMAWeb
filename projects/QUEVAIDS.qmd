@@ -1,0 +1,11 @@
+---
+title: "QueVADIS"
+image: QUEVADIS.jpg
+categories:
+  - Research
+---
+
+Colonization differences among coexisting oaks: from acorn properties
+and dispersal to facilitation - Diferencias de colonización de quercíneas coexistentes: desde las propiedades y la dispersión de las bellotas a la facilitación - (QueVADIS)
+
+![](QUEVADIS.jpg)
