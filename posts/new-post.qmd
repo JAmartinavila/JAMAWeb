@@ -1,10 +1,9 @@
 ---
-title: "The value of computational ecology"
-description: "Some thoughts about it"
-author: "John Doe"
-date: "2024-10-20"
+title: "The tawny owl in my garden"
+description: "A special neighbour"
+author: "Jorge Ángel Martín Ávila"
 categories:
   - computational
 ---
 
-![](../projects/code.jpg)
+![](DSC01147.jpg)
