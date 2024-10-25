@@ -2,7 +2,7 @@
 title: "Finley Malloc"
 about:
   template: trestles
-  image: avatar.jpg
+  image: Jorge.jpeg
   links:
     - icon: envelope
       # text: email
