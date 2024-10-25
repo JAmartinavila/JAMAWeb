@@ -1,0 +1,9 @@
+---
+title: "BIOS Cabo Verde"
+image: Tartaru.jpg
+categories:
+  - Volunteering
+---
+[Avaliação dos riscos das atividades turísticas sobre as tartarugas](https://bioscaboverde.com/invetigacao-tartarugas/)
+
+![](Tartaru.jpg)
