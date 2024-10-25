@@ -1,8 +1,8 @@
 ---
 title: "EVALUAVE"
 image: EVALUAVE.jpg
-# categories: 
-#   - ecoinformatics
+categories:
+  - Research
 ---
 
 Assessing avian functions and ecosystem services in

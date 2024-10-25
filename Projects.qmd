@@ -3,7 +3,7 @@ title: "Projects"
 listing:
   contents: projects
   type: grid
-  categories: false
+  categories: true
 ---
 
 
