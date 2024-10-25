@@ -1,6 +1,6 @@
 ---
 title: "EVALUAVE"
-image: code.jpg
+image: EVALUAVE.jpg
 # categories: 
 #   - ecoinformatics
 ---
