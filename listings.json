@@ -2,13 +2,14 @@
   {
     "listing": "/Projects.html",
     "items": [
-      "/projects/EVALUAVE.html"
+      "/projects/EVALUAVE.html",
+      "/projects/QUEVAIDS.html"
     ]
   },
   {
     "listing": "/Blog.html",
     "items": [
-      "/posts/new-post.html"
+      "/posts/Carabo.html"
     ]
   }
 ]
