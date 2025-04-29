@@ -7,8 +7,8 @@ about:
     - icon: envelope
       # text: email
       href: "mailto: jorgeangel.martin@uah.es"
-    - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
-      href: https://x.com/JA_martinavila
+    - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
+      href: https://bsky.app/profile/jamartinavila.bsky.social
     - icon: github
       href: https://github.com/JAmartinavila
     - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
