@@ -6,5 +6,41 @@ image: Carabo.jpg
 categories:
   - Naturalist
 ---
+**Since childhood, I have felt a deep interest in nature.**
+J.O. Schmidt says in his book *The Sting of the Wild* that **“children are born naturalists whose play is the exploration of the environment around them.”** I don’t know whether, in my case, this interest is innate or learned. What I do know for sure is that I had the immense fortune of growing up in a rural environment that allowed me close contact with nature, and that, along with the educational figure my grandfather Alfonso represented for me, clearly influenced the development of my interests and what would ultimately become my profession.  
+![](Escalada.jpeg)  
+  
+Alfonso and I spent a lot of time together. He was an extremely intelligent man who, despite his “limited academic background,” as we might say today in this title-obsessed world, always knew how to make a living and carry out his projects. He was highly knowledgeable about the natural world, and thanks to him, by the age of 2 or 3, I wasn’t saying “that’s a tree,” but “that’s an elm,” nor “that plant,” but “that’s an oleander,” and not “that bug,” but “that’s a stink bug.”
 
-![](Carabo.jpg)
+One summer night, Alfonso and I had gone out to take the trash, as we often did, when a sound interrupted whatever it was we were talking about.
+
+“Grandpa, an owl!” I said, upon hearing the sorrowful hoot in the distance.
+
+“No, sweetheart. That sound is a tawny owl. It’s like an owl, but smaller and without 'ears'.”
+
+At the beginning of the century, we didn’t have the option of reaching into our pocket and pulling out a mobile phone to quickly look up a picture to illustrate our conversations. So there I stayed, imagining what a tawny owl might look like—an image that was soon replaced in my mind by the gecko I spotted climbing one of the village walls.
+
+![](Carabo.jpg)  
+**As a Biologist**  
+
+As a biologist, and later during my doctoral studies at the University of Alcalá, I was able to learn much more about nature. I gradually moved into the fields of ecology, entomology, and ornithology, and continued to interpret the natural world I discovered as a child in a more scientific way.
+
+The call of the tawny owl, along with the songs of the many bird species that inhabit the area around my home, accompanied me as I grew up. At a certain point, I learned that the availability of habitat and nesting shelter is a major limiting factor in bird reproduction, and I caught the “nest box bug,” just like so many other bird enthusiasts. I’ve put up nest boxes for all kinds of birds throughout my garden, around my house, and even in the trees of the Science Faculty garden at the University of Alcalá—until, once again, the call of the tawny owl reminded me that it, too, would appreciate a good nesting spot.
+  
+![](Frown.jpg)  
+**Like Just Another Neighbor**  
+
+Like just another neighbor, the tawny owl moved into the nest box I had prepared. It accepted it almost immediately, as if it had been waiting for it. As if it had seen me building and placing it, and already had its bags packed. The first monitored nesting season was 2022–2023. That year, I was able to admire from the outside the occasional arrival of the adult birds, and the fledglings when they dared to leave the nest and settled in nearby trees. Observing that process inevitably led me to wonder what it would be like to see everything happening inside the nest box, just like I’d seen in SEO live camera feeds.
+
+For the 2023–2024 breeding season, I decided to install a live monitoring camera inside the nest box, which allowed me to learn more about the private life of our tawny owl neighbors. I was surprised by the sheer number of birds from different species that the adults used to feed the chicks: blackbirds, wood pigeons, Eurasian collared doves, and swallows were the most common prey. Field mice and rats were also abundant. More rarely, I witnessed a gecko, a garden dormouse, and even a small rabbit being brought in. Tawny owl populations are among the few increasing among nocturnal birds of prey, and this is very likely due to their tolerance of human presence and the generalist nature of their diet.
+
+![](Family.jpeg)  
+
+**Collaborating with SEO/BirdLife**  
+
+Collaborating with SEO/BirdLife on the study of this species through video cameras was a wonderful surprise. Carlos and Santiago contacted me after seeing the videos I regularly uploaded to YouTube, highlighting the best footage captured by the nest camera. For the upcoming nesting season—and thanks to the support of SEO—the nest will be available to view live 24 hours a day, and will be equipped with two video cameras: one inside the box, to admire the chicks’ development, and one outside, to observe more adult behavior.
+
+Thanks to the essential support of the SEO/BirdLife team, we hope to continue capturing magical moments of this species in the coming years, gain deeper insight into the reproductive biology of a nocturnal species that is rarely seen, and ensure that this family of tawny owls remains in the neighborhood for a long time.  
+
+{{< video https://www.youtube.com/watch?v=wj99mz2KuK0&t=34s >}}
+
