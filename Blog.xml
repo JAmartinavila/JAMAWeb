@@ -10,7 +10,7 @@
 <atom:link href="https://pakillo.github.io/academic-website-template-Quarto/Blog.xml" rel="self" type="application/rss+xml"/>
 <description>I am a scientist</description>
 <generator>quarto-1.7.29</generator>
-<lastBuildDate>Wed, 30 Apr 2025 17:21:35 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 18:25:48 GMT</lastBuildDate>
 <item>
   <title>The tawny owl in my garden</title>
   <dc:creator>Jorge Ángel Martín Ávila</dc:creator>
@@ -48,7 +48,7 @@
  ]]></description>
   <category>Naturalist</category>
   <guid>https://pakillo.github.io/academic-website-template-Quarto/posts/Carabo.html</guid>
-  <pubDate>Wed, 30 Apr 2025 17:21:35 GMT</pubDate>
+  <pubDate>Wed, 30 Apr 2025 18:25:48 GMT</pubDate>
   <media:content url="https://pakillo.github.io/academic-website-template-Quarto/posts/Carabo.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
