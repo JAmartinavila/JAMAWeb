@@ -1,20 +1,21 @@
 ---
 title: "Communication"
+description: "Science communication, wildlife stories, podcasts, media, FameLab and public engagement activities by Jorge A. Martín-Ávila."
 page-layout: full
 ---
 
 ```{=html}
 <section class="outreach-hero" aria-labelledby="outreach-title">
   <div class="outreach-hero-inner section-width">
-    <span class="eyebrow"><span class="dot"></span> SCIENCE COMMUNICATION · DIVULGACIÓN</span>
+    <span class="eyebrow"><span class="dot"></span> SCIENCE COMMUNICATION · PUBLIC ENGAGEMENT</span>
     <h1 id="outreach-title">Curiosity is contagious.<br><em>Science is meant to be shared.</em></h1>
     <p>Nature has fascinated me for as long as I can remember. Here are some of the stories, conversations and public events through which I have been fortunate enough to share that fascination with others.</p>
     <div class="outreach-jump-links" aria-label="Explore outreach activities">
       <a href="#outreach-wildlife">Wildlife &amp; live cameras ↓</a>
       <a href="#outreach-audio">Podcasts &amp; television ↓</a>
       <a href="#outreach-press">Research in the media ↓</a>
-      <a href="#outreach-famelab">FameLab &amp; interviews ↓</a>
-      <a href="#outreach-talks">Public talks ↓</a>
+      <a href="#outreach-famelab">FameLab Spain 2020 ↓</a>
+      <a href="#outreach-events">Outreach &amp; public events ↓</a>
     </div>
   </div>
 </section>
@@ -27,9 +28,9 @@ page-layout: full
   <article class="outreach-story">
     <a class="outreach-story-image" href="posts/Carabo.html" aria-label="Read the story of the tawny owls"><img src="posts/Carabo.jpg" alt="Tawny owl photographed for the garden nest monitoring project" loading="lazy"></a>
     <div class="outreach-story-copy">
-      <span class="outreach-kicker">TAWNY OWLS · SEO/BIRDLIFE COLLABORATION</span>
+      <span class="outreach-kicker">TAWNY OWLS · SEO/BIRDLIFE · 2024–2025</span>
       <h3>The tawny owls in my garden</h3>
-      <p>A homemade nest box became a window into the private lives of a tawny owl family. I later collaborated with SEO/BirdLife to share footage from the nest cameras.</p>
+      <p>A homemade nest box became a window into the private lives of a tawny owl family. In 2024–2025, I supported SEO/BirdLife with footage and resources for a 24-hour live broadcast from the nest box in Toledo.</p>
       <div class="outreach-action-row">
         <a class="text-link" href="posts/Carabo.html">Read the story <span aria-hidden="true">→</span></a>
         <a class="text-link" href="https://www.youtube.com/watch?v=wj99mz2KuK0&amp;t=34s" target="_blank" rel="noopener noreferrer">Watch nest camera footage <span aria-hidden="true">↗</span></a>
@@ -60,13 +61,6 @@ page-layout: full
   <p>A television report from Galicia on the native honey-buzzard and its relationship with the invasive yellow-legged hornet.</p>
   <span class="outreach-source"><em>Labranza</em> · TVG · 25 September 2021</span>
   <a class="outreach-card-link" href="https://blog.tvalacarta.info/video/tvg/labranza/o-minato-abelleiro-un-aliado-contra-a-velutina-sen-mais-leite-fresco-e-ecoloxico-da-granxa-a-mesa-25-09-2021-1235/" target="_blank" rel="noopener noreferrer">Watch the report <span aria-hidden="true">↗</span></a>
-</article>
-      <article class="outreach-card outreach-featured-card">
-  <div class="outreach-card-top"><span class="outreach-kicker">RADIO · 2020</span><span aria-hidden="true" class="outreach-card-symbol">♫</span></div>
-  <h3>Talking science on national radio</h3>
-  <p>A conversation about FameLab and communicating science on the radio.</p>
-  <span class="outreach-source"><em>Las mañanas de RNE</em> · RTVE</span>
-  <a class="outreach-card-link" href="https://www.rtve.es/play/audios/las-mananas-de-rne-con-pepa-fernandez/mananas-rne-alfredo-lain-famelab-certamen-monologos-cientificos-internacional/5650775/" target="_blank" rel="noopener noreferrer">Listen on RTVE <span aria-hidden="true">↗</span></a>
 </article>
     </div>
   </div>
@@ -101,8 +95,8 @@ page-layout: full
 
 <section class="outreach-panel" id="outreach-famelab" aria-labelledby="outreach-famelab-heading">
   <div class="section-width outreach-panel-inner">
-    <div class="section-heading"><div><span class="eyebrow">SCIENCE ON STAGE</span><h2 id="outreach-famelab-heading">FameLab &amp; interviews</h2></div><p>Science communication is also about curiosity, humour and finding a way to connect with people.</p></div>
-    <div class="outreach-famelab-intro"><span class="outreach-kicker">FAMELAB SPAIN · 2020</span><p>In 2020, I was selected as one of the 12 FameLab Spain semifinalists. I used humour to share unexpected facts about insect reproductive strategies.</p><a class="outreach-card-link" href="https://www.fecyt.es/actualidad/famelab-espana-ya-tiene-sus-12-semifinalistas" target="_blank" rel="noopener noreferrer">FECYT official announcement <span aria-hidden="true">↗</span></a></div>
+    <div class="section-heading"><div><span class="eyebrow">SCIENCE ON STAGE</span><h2 id="outreach-famelab-heading">FameLab Spain 2020</h2></div><p>Science communication is also about curiosity, humour and finding a way to connect with people.</p></div>
+    <div class="outreach-famelab-intro"><span class="outreach-kicker">FAMELAB SPAIN · 2020</span><p>In 2020, I was selected as one of the 12 semifinalists of FameLab Spain, the national science-monologue competition. My performance used humour to explore surprising aspects of insect reproductive strategies. The experience also led to interviews and radio conversations about communicating science.</p><a class="outreach-card-link" href="https://www.fecyt.es/actualidad/famelab-espana-ya-tiene-sus-12-semifinalistas" target="_blank" rel="noopener noreferrer">FECYT official announcement <span aria-hidden="true">↗</span></a></div>
     <div class="outreach-cards outreach-interview-cards">
       <article class="outreach-card outreach-featured-card">
   <div class="outreach-card-top"><span class="outreach-kicker">INTERVIEW · ELDIARIO.ES</span><span aria-hidden="true" class="outreach-card-symbol">“ ”</span></div>
@@ -125,20 +119,38 @@ page-layout: full
   <span class="outreach-source">UAH · University communication portal</span>
   <a class="outreach-card-link" href="https://portalcomunicacion.uah.es/diario-digital/entrevista/jorge-angel-martin-los-monologos-son-pequenas-pildoras-de-curiosidad-que-pueden-servir-para-que-la-gente-se-anime-a-aprender-mas.html" target="_blank" rel="noopener noreferrer">Read the interview <span aria-hidden="true">↗</span></a>
 </article>
+      <article class="outreach-card outreach-featured-card">
+  <div class="outreach-card-top"><span class="outreach-kicker">RADIO · 2020</span><span aria-hidden="true" class="outreach-card-symbol">♫</span></div>
+  <h3>FameLab on national radio</h3>
+  <p>A radio conversation on the FameLab science-monologue competition and ways of bringing research to wider audiences.</p>
+  <span class="outreach-source"><em>Las mañanas de RNE</em> · RTVE</span>
+  <a class="outreach-card-link" href="https://www.rtve.es/play/audios/las-mananas-de-rne-con-pepa-fernandez/mananas-rne-alfredo-lain-famelab-certamen-monologos-cientificos-internacional/5650775/" target="_blank" rel="noopener noreferrer">Listen on RTVE <span aria-hidden="true">↗</span></a>
+</article>
     </div>
   </div>
 </section>
 
-<section class="home-section section-width outreach-section" id="outreach-talks" aria-labelledby="outreach-talks-heading">
-  <div class="section-heading"><div><span class="eyebrow">MEETING THE PUBLIC</span><h2 id="outreach-talks-heading">Public talks &amp; events</h2></div><p>Face-to-face science communication, from public talks to national events.</p></div>
+<section class="home-section section-width outreach-section" id="outreach-events" aria-labelledby="outreach-events-heading">
+  <div class="section-heading">
+    <div><span class="eyebrow">SCIENCE OUTREACH &amp; PUBLIC ENGAGEMENT</span><h2 id="outreach-events-heading">Science, face to face</h2></div>
+    <p>Community events, public talks and hands-on activities that make ecology accessible beyond academic settings.</p>
+  </div>
   <div class="outreach-timeline">
     <article class="outreach-event">
-      <span class="outreach-event-date">2022 <small>30 September</small></span>
-      <div><span class="outreach-kicker">EUROPEAN RESEARCHERS’ NIGHT · UNIVERSITY OF ALCALÁ</span><h3>The European honey-buzzard as an ally against the Asian hornet</h3><p>A public talk at the University of Alcalá's Botanical Garden, part of its apiculture classroom programme.</p><a class="outreach-card-link" href="https://cultura.uah.es/es/evento/Aula-apicola-del-Jardin-Botanico/" target="_blank" rel="noopener noreferrer">See the UAH event programme <span aria-hidden="true">↗</span></a></div>
+      <span class="outreach-event-date">2024 <small>Liendo · Cantabria</small></span>
+      <div><span class="outreach-kicker">BIODIVERSITY · CITIZEN PARTICIPATION</span><h3>Biodiversity and local environmental challenges</h3><p>Contributed to public discussions in Liendo, Spain, on biodiversity, citizen participation, invasive species, wind energy development and other environmental threats.</p></div>
     </article>
     <article class="outreach-event">
-      <span class="outreach-event-date">2020 <small>FameLab Spain</small></span>
-      <div><span class="outreach-kicker">SCIENCE COMMUNICATION · FECYT &amp; BRITISH COUNCIL</span><h3>FameLab Spain semifinalist</h3><p>Selected among the 12 semifinalists of the national science-monologue competition.</p><a class="outreach-card-link" href="https://www.fecyt.es/actualidad/famelab-espana-ya-tiene-sus-12-semifinalistas" target="_blank" rel="noopener noreferrer">See the FECYT announcement <span aria-hidden="true">↗</span></a></div>
+      <span class="outreach-event-date">2023 <small>Alcalá de Henares</small></span>
+      <div><span class="outreach-kicker">CELÁNICA · XVII SCIENCE OUTREACH WEEK</span><h3>CELÁNICA: bringing science closer to the public</h3><p>Participated in the 17th CELÁNICA Science Outreach Week in Alcalá de Henares, a public-facing initiative to share scientific knowledge and curiosity.</p></div>
+    </article>
+    <article class="outreach-event">
+      <span class="outreach-event-date">2022 <small>30 September</small></span>
+      <div><span class="outreach-kicker">EUROPEAN RESEARCHERS’ NIGHT · UNIVERSITY OF ALCALÁ</span><h3>The European honey-buzzard as an ally against the Asian hornet</h3><p>Participated in the European Researchers’ Night at the Royal Botanical Garden Juan Carlos I, including a public talk on the role of the honey-buzzard in regulating invasive hornets, within the UAH apiculture programme.</p><a class="outreach-card-link" href="https://cultura.uah.es/es/evento/Aula-apicola-del-Jardin-Botanico/" target="_blank" rel="noopener noreferrer">See the UAH event programme <span aria-hidden="true">↗</span></a></div>
+    </article>
+    <article class="outreach-event">
+      <span class="outreach-event-date">2021–2022 <small>Madrid · Alcalá</small></span>
+      <div><span class="outreach-kicker">SCIENCE &amp; INNOVATION WEEK</span><h3>Sharing science with wider audiences</h3><p>Contributed to Science and Innovation Week activities in Madrid (2021) and Alcalá de Henares (2022), helping bring research closer to the public.</p></div>
     </article>
   </div>
 </section>
