@@ -17,11 +17,11 @@ Selected peer-reviewed publications, newest first. **My name is in bold**. For c
 
 <div class="pub-item"><span class="pub-tag">FIRST AUTHOR</span><h3><a href="https://doi.org/10.1002/ps.8622">The European honey buzzard (Pernis apivorus) as an ally for the control of the invasive yellow-legged hornet (Vespa velutina nigrithorax)</a></h3><p><strong>Martín-Ávila, J. A.</strong>, Díaz-Aranda, L. M., Fernández-Pereira, J. M., &amp; Rebollo, S.</p><p><em>Pest Management Science</em>, 81(4), 2237–2247. <a href="https://doi.org/10.1002/ps.8622">DOI ↗</a></p></div>
 
-<div class="pub-item"><span class="pub-tag">FIRST AUTHOR</span><h3><a href="https://doi.org/10.1111/jav.03221">The trophic strategy of the European honey-buzzard Pernis apivorus during breeding: extravagant specialization or ingenious solution?</a></h3><p><strong>Martín-Ávila, J. A.</strong>, Rebollo, S., Fernández-Pereira, J. M., &amp; Díaz-Aranda, L. M.</p><p><em>Journal of Avian Biology</em>, 2025, e03221. <a href="https://doi.org/10.1111/jav.03221">DOI ↗</a></p></div>
-
 <div class="pub-item"><span class="pub-tag">CO-AUTHOR</span><h3><a href="https://doi.org/10.7818/ECOS.2876">Sinergias entre el fototrampeo y tecnologías de seguimiento con emisores para el estudio de servicios ecosistémicos suministrados por la avifauna</a></h3><p>Rebollo, S., Pérez-Camacho, L., Martínez-Baroja, L., <strong>Martín-Ávila, J. A.</strong>, et al.</p><p><em>Ecosistemas</em>, 34(1), 2876. <a href="https://doi.org/10.7818/ECOS.2876">DOI ↗</a></p></div>
 
 ## 2024
+
+<div class="pub-item"><span class="pub-tag">FIRST AUTHOR</span><h3><a href="https://doi.org/10.1111/jav.03221">The trophic strategy of the European honey-buzzard Pernis apivorus during breeding: extravagant specialization or ingenious solution?</a></h3><p><strong>Martín-Ávila, J. A.</strong>, Rebollo, S., Fernández-Pereira, J. M., &amp; Díaz-Aranda, L. M.</p><p><em>Journal of Avian Biology</em>, 2025, e03221. <a href="https://doi.org/10.1111/jav.03221">DOI ↗</a></p></div>
 
 <div class="pub-item"><span class="pub-tag">CO-AUTHOR</span><h3><a href="https://doi.org/10.7818/ECOS.2745">Tidyverse: colección de paquetes de R para la ciencia de datos</a></h3><p>Lorente-Casalini, O., Rodes-Blanco, M., Aguirre-Iglesias, S., <strong>Martín-Ávila, J. A.</strong>, Molina, D. S. S., Tijerín-Triviño, J., &amp; Astigarraga, J.</p><p><em>Ecosistemas</em>, 33(3), 2745. <a href="https://doi.org/10.7818/ECOS.2745">DOI ↗</a></p></div>
 
