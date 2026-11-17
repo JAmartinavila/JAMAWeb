@@ -1,10 +1,12 @@
 ---
-title: "Projects"
+title: "Research projects"
+description: "Research projects and fieldwork by Jorge A. Martín-Ávila, covering animal ecology, biodiversity, and ecosystem services."
 listing:
   contents: projects
   type: grid
   categories: true
+  sort: "date desc"
 ---
 
-
+Research ranging from species interactions and biodiversity to ecosystem services, developed through collaborations and extensive fieldwork.
 

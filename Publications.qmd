@@ -1,12 +1,36 @@
 ---
 title: "Publications"
-toc: true
+description: "Peer-reviewed publications by Jorge A. Martín-Ávila in ecology, invasive species, ecosystem services and related sciences."
 ---
 
-### Articles
--   Rebollo, S., Pérez-Camacho, L., Martínez-Baroja, L., Martín-Ávila, J. A., Díaz-Aranda, L. M., Lorente-Casalini, O., Morato, N., Fernández-Pereira, J. M., Cuevas, J. A., Rey-Benayas, J. M. & Villar-Salvador, P. (2025) [Sinergias entre el fototrampeo y tecnologías de seguimiento con emisores para el estudio de servicios ecosistémicos suministrados por la avifauna](https://doi.org/10.7818/ECOS.2876). *Ecosistemas* 34 (1): 2876 \[[PDF](https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/2876/1877)\]
--   Martín‐Ávila, J. A., Rebollo, S., Fernández‐Pereira, J. M., Monteagudo, N. & Díaz‐Aranda, L. M. (2025) [Encouraging native predators of invasive yellow-legged hornets: breeding habitat preferences of European honey buzzards in exotic *Eucalyptus* plantations](https://doi.org/10.1002/ps.8738). *Pest Management Science* s/n \[[PDF](https://scijournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ps.8738)\]
--   Martín‐Ávila, J. A., Díaz‐Aranda, L. M., Fernández‐Pereira, J. M., & Rebollo, S. (2025) [The European honey buzzard (*Pernis apivorus*) as an ally for the control of the invasive yellow-legged hornet (*Vespa velutina nigrithorax*)](https://doi.org/10.1002/ps.8622). *Pest Management Science* 81(4): 2237-2247 \[[PDF](https://scijournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ps.8622)\]
--   Martín‐Ávila, J. A., Rebollo, S., Fernández‐Pereira, J. M., & Díaz‐Aranda, L. M. (2024) [The trophic strategy of the European honey‐buzzard *Pernis apivorus* during breeding: extravagant specialization or ingenious solution?](https://doi.org/10.1111/jav.03221). *Journal of Avian Biology* e03221 \[[PDF](https://nsojournals.onlinelibrary.wiley.com/doi/pdf/10.1111/jav.03221)\]
--   Lorente-Casalini, O., Rodes-Blanco, M., Aguirre-Iglesias, S., Martín-Ávila, J. A., Molina, D. S. S., Tijerín-Triviño, J., & Astigarraga, J. (2024) [Tidyverse: colección de paquetes de R para la ciencia de datos](https://doi.org/10.7818/ECOS.2745). *Ecosistemas* 33 (3): 2745 \[[PDF](https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/2745/1832)\]
--   Rebollo, S., Díaz-Aranda, L. M., Martín-Ávila, J. A., Hernández-García, M., López-Rodríguez, M., Monteagudo, N., & Fernández-Pereira, J. M. (2023) [Assessment of the consumption of the exotic Asian Hornet *Vespa velutina* by the European Honey Buzzard *Pernis apivorus* in southwestern Europe](https://doi.org/10.1080/00063657.2023.2244258). *Bird Study* 70 (3): 136-150
+Selected peer-reviewed publications, newest first. **My name is in bold**. For complete and continuously updated bibliographic information, see my [Google Scholar profile](https://scholar.google.es/citations?user=uOUlRsYAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0002-1924-0130).
+
+## 2026
+
+<div class="pub-item"><span class="pub-tag">FIRST AUTHOR · OPEN ACCESS</span><h3><a href="https://doi.org/10.1016/j.ecoser.2026.101912">Integrating ecology and economics: European honey buzzards as ecosystem service providers against yellow-legged hornets</a></h3><p><strong>Martín-Ávila, J. A.</strong>, Barrio, M., Alló, M., Hernández-García, M., Fernández-Pereira, J. M., Díaz-Aranda, L. M., &amp; Rebollo, S.</p><p><em>Ecosystem Services</em>, 82, 101912. <a href="https://doi.org/10.1016/j.ecoser.2026.101912">DOI ↗</a></p></div>
+
+<div class="pub-item"><span class="pub-tag">CO-AUTHOR</span><h3><a href="https://doi.org/10.1016/j.earscirev.2026.105561">The fossil record of insect bone bioerosion: Insights from titanosaur remains at Lo Hueco (Late Cretaceous, Spain) and implications for continental ichnofacies</a></h3><p>Belaústegui, Z., Narváez, I., Ortega, F., <strong>Martín-Ávila, J. A.</strong>, Martín-Vega, D., &amp; Martinell, J.</p><p><em>Earth-Science Reviews</em>, 280, 105561. <a href="https://doi.org/10.1016/j.earscirev.2026.105561">DOI ↗</a></p></div>
+
+## 2025
+
+<div class="pub-item"><span class="pub-tag">FIRST AUTHOR</span><h3><a href="https://doi.org/10.1002/ps.8738">Encouraging native predators of invasive yellow-legged hornets: breeding habitat preferences of European honey buzzards in exotic Eucalyptus plantations</a></h3><p><strong>Martín-Ávila, J. A.</strong>, Rebollo, S., Fernández-Pereira, J. M., Monteagudo, N., &amp; Díaz-Aranda, L. M.</p><p><em>Pest Management Science</em>, 81(7), 3704–3714. <a href="https://doi.org/10.1002/ps.8738">DOI ↗</a></p></div>
+
+<div class="pub-item"><span class="pub-tag">FIRST AUTHOR</span><h3><a href="https://doi.org/10.1002/ps.8622">The European honey buzzard (Pernis apivorus) as an ally for the control of the invasive yellow-legged hornet (Vespa velutina nigrithorax)</a></h3><p><strong>Martín-Ávila, J. A.</strong>, Díaz-Aranda, L. M., Fernández-Pereira, J. M., &amp; Rebollo, S.</p><p><em>Pest Management Science</em>, 81(4), 2237–2247. <a href="https://doi.org/10.1002/ps.8622">DOI ↗</a></p></div>
+
+<div class="pub-item"><span class="pub-tag">FIRST AUTHOR</span><h3><a href="https://doi.org/10.1111/jav.03221">The trophic strategy of the European honey-buzzard Pernis apivorus during breeding: extravagant specialization or ingenious solution?</a></h3><p><strong>Martín-Ávila, J. A.</strong>, Rebollo, S., Fernández-Pereira, J. M., &amp; Díaz-Aranda, L. M.</p><p><em>Journal of Avian Biology</em>, 2025, e03221. <a href="https://doi.org/10.1111/jav.03221">DOI ↗</a></p></div>
+
+<div class="pub-item"><span class="pub-tag">CO-AUTHOR</span><h3><a href="https://doi.org/10.7818/ECOS.2876">Sinergias entre el fototrampeo y tecnologías de seguimiento con emisores para el estudio de servicios ecosistémicos suministrados por la avifauna</a></h3><p>Rebollo, S., Pérez-Camacho, L., Martínez-Baroja, L., <strong>Martín-Ávila, J. A.</strong>, et al.</p><p><em>Ecosistemas</em>, 34(1), 2876. <a href="https://doi.org/10.7818/ECOS.2876">DOI ↗</a></p></div>
+
+## 2024
+
+<div class="pub-item"><span class="pub-tag">CO-AUTHOR</span><h3><a href="https://doi.org/10.7818/ECOS.2745">Tidyverse: colección de paquetes de R para la ciencia de datos</a></h3><p>Lorente-Casalini, O., Rodes-Blanco, M., Aguirre-Iglesias, S., <strong>Martín-Ávila, J. A.</strong>, Molina, D. S. S., Tijerín-Triviño, J., &amp; Astigarraga, J.</p><p><em>Ecosistemas</em>, 33(3), 2745. <a href="https://doi.org/10.7818/ECOS.2745">DOI ↗</a></p></div>
+
+## 2023
+
+<div class="pub-item"><span class="pub-tag">CO-AUTHOR</span><h3><a href="https://doi.org/10.1080/00063657.2023.2244258">Assessment of the consumption of the exotic Asian Hornet Vespa velutina by the European Honey Buzzard Pernis apivorus in southwestern Europe</a></h3><p>Rebollo, S., Díaz-Aranda, L. M., <strong>Martín-Ávila, J. A.</strong>, Hernández-García, M., López-Rodríguez, M., Monteagudo, N., &amp; Fernández-Pereira, J. M.</p><p><em>Bird Study</em>, 70(3), 136–150. <a href="https://doi.org/10.1080/00063657.2023.2244258">DOI ↗</a></p></div>
+
+::: {.callout-note}
+## Manuscripts in press
+
+An additional study on biparental care and task-sharing in European honey-buzzards has been accepted by *Animal Behaviour* (2026). Its final bibliographic reference will be added when available.
+:::

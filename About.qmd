@@ -1,0 +1,53 @@
+---
+title: "About me"
+description: "Scientific background, research experience and quantitative ecology skills of Jorge A. Martín-Ávila."
+---
+
+::: {.about-lead}
+## Field biologist by training, quantitative ecologist by practice.
+
+I am **Jorge A. Martín-Ávila**, a PhD in Ecology, Biodiversity and Global Change from the University of Alcalá (Spain). My interests lie in the links between **biodiversity, species interactions, landscape ecology, and ecosystem services**.
+
+My work has involved monitoring raptor nests, studying their diet and movements, and using ecological and statistical models to understand how native predators interact with an invasive species. I value research that moves between field observations, rigorous analysis and actionable conservation questions.
+:::
+
+## Current work
+
+**Environmental assessment and data analysis — Tragsatec (Spain)**  
+My professional work includes ecological data processing, habitat assessment and spatial analysis. I continue to develop my academic research interests and collaborations in parallel.
+
+## Academic background
+
+- **PhD in Ecology, Biodiversity and Global Change** — University of Alcalá, 2025. *Cum laude*, international mention. Thesis: *The role of the honey buzzard in the control of the Asian hornet*.
+- **MSc in Animal Biology Research** — University of Alcalá, 2019.
+- **BSc in Biology** — University of Alcalá, 2018.
+
+## Research experience
+
+My doctoral research (2021–2025) was supported by a Spanish FPI predoctoral fellowship. I have worked on ecological fieldwork, GPS telemetry, camera-trap monitoring, statistical modelling, scientific writing and interdisciplinary research. My experience includes an international research stay at **Senckenberg** in Frankfurt and university teaching activities.
+
+## Methods and tools
+
+<div class="skill-grid">
+  <div><h3>Quantitative analysis</h3><p>R, mixed-effects models, spatial statistics, data visualisation and reproducible research workflows.</p></div>
+  <div><h3>Geospatial tools</h3><p>QGIS, <code>sf</code>, <code>terra</code>, GPS tracking data, habitat and landscape analyses.</p></div>
+  <div><h3>Field research</h3><p>Raptor monitoring, camera trapping, nest observations, field protocols and biodiversity surveys.</p></div>
+  <div><h3>Communication</h3><p>Peer-reviewed publishing, scientific presentations, teaching, Quarto and open-science workflows.</p></div>
+</div>
+
+## Selected additional training
+
+- **Camera trapping for ecological studies** — Asociación Ecotono, Ávila (2021).
+- **Vertical tree climbing and aerial fieldwork** — ARA Formación, Caldas de Reis (2021).
+- **Data management and visualisation in R** — University of Alcalá (2022).
+- **Mixed models for natural sciences using R** — Museo Nacional de Ciencias Naturales (CSIC), Madrid (2022).
+- **Geographic information systems with QGIS** — Online training (2022).
+
+## Academic profiles and contact
+
+- [Google Scholar](https://scholar.google.es/citations?user=uOUlRsYAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0002-1924-0130)
+- [GitHub](https://github.com/JAmartinavila)
+- [Email](mailto:jorgeangel.martin@uah.es)
+
+**Full academic CV:** Available on request.

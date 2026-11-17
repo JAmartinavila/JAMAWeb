@@ -1,4 +1,5 @@
 ---
+description: "Field conservation and sea-turtle monitoring on Boa Vista, Cabo Verde."
 title: "BIOS Cabo Verde"
 image: Tartaru.jpg
 categories:

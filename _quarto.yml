@@ -1,65 +1,48 @@
 project:
   type: website
-  # output-dir: docs
 
+lang: en
 
 website:
-  title: "JAMA Website"
-  description: "I am a scientist"
-  site-url: https://pakillo.github.io/academic-website-template-Quarto
-  repo-url: https://github.com/Pakillo/academic-website-template-Quarto
-  # favicon: logo.png
-  twitter-card: true
-  #   creator: "@handle"
-  #   site: "@handle"
+  title: "Jorge A. Martín-Ávila"
+  description: "Ecologist (PhD) researching biodiversity, trophic interactions, invasive species and ecosystem services."
+  site-url: https://jamartinavila.github.io/JAMAWeb/
+  repo-url: https://github.com/JAmartinavila/JAMAWeb
   open-graph: true
-  # google-analytics:
-  #   tracking-id: "UA-XXXXXXXX"
-  #   anonymize-ip: true
-  # cookie-consent: true
-
-
+  twitter-card: true
+  search: false
   navbar:
-    right:
-      - href: index.qmd
-        text: Home
-      - Projects.qmd
-      - Publications.qmd
-      - Blog.qmd
-
-      # - icon: mastodon
-      #   href: https://joinmastodon.org
-      # - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      #   href: https://bsky.app
-      # - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
-      #   href: https://x.com
-      # - icon: github
-      #   href: https://github.com
-      # - icon: linkedin
-      #   href: https://linkedin.com/
-      # - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
-      #   href: https://scholar.google.com
-      # - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
-      #   href: https://orcid.org/
-      - icon: rss
-        href: index.xml
-      # - icon: twitter
-      #   href: https://twitter.com
-
+    background: "#f8f8f3"
+    foreground: "#163b31"
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: Projects.qmd
+      - text: Publications
+        href: Publications.qmd
+      - text: About
+        href: About.qmd
+      - text: Field notes
+        href: Blog.qmd
+    tools:
+      - icon: github
+        href: https://github.com/JAmartinavila
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:jorgeangel.martin@uah.es
+        aria-label: Email
   page-footer:
-    background: light
-    right: "Made with Quarto"
-  # back-to-top-navigation: true
-
+    background: "#f8f8f3"
+    left: "© 2026 Jorge A. Martín-Ávila"
+    right: "Ecology · Biodiversity · Quantitative research"
 
 format:
   html:
     theme: flatly
     css: styles.css
     toc: false
+    link-external-newwindow: true
 
 execute:
-  freeze: auto  # re-render only when source changes
-
-
-
+  freeze: auto

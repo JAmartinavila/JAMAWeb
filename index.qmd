@@ -1,44 +1,64 @@
 ---
-title: "Jorge A. Martín Ávila"
-about:
-  template: trestles
-  image: Jorge.jpeg
-  links:
-    - icon: envelope
-      # text: email
-      href: "mailto: jorgeangel.martin@uah.es"
-    - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      href: https://bsky.app/profile/jamartinavila.bsky.social
-    - icon: github
-      href: https://github.com/JAmartinavila
-    - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
-      href: https://scholar.google.es/citations?user=uOUlRsYAAAAJ&hl=es
-    - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
-      href: https://orcid.org/0000-0002-1924-0130
-    # - icon: twitter
-    #   text: twitter
-    #   href: https://twitter.com
-    # - icon: github
-    #   text: Github
-    #   href: https://github.com
+title: false
+description: "Jorge A. Martín-Ávila is an ecologist with a PhD from the University of Alcalá, studying trophic interactions, biological control, spatial ecology and ecosystem services."
+page-layout: full
 ---
 
-Hi! I am currently doing my PhD in the University of Alcalá. My research topic is the pest-regulation Ecosystem Service of the Asian hornet, provided by the European honey buzzard.
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-copy">
+    <div class="eyebrow"><span class="dot"></span> ECOLOGIST · PhD · SPAIN</div>
+    <h1 id="hero-title">Understanding nature.<br><em>Inspired by a deep love for the natural world.</em></h1>
+    <p class="hero-intro">I'm <strong>Jorge A. Martín-Ávila</strong>, an ecologist working at the intersection of biodiversity, species interactions and the benefits that functioning ecosystems provide to people.</p>
+    <p class="hero-secondary">My research combines field ecology, GPS tracking, ecological modelling and spatial analysis to understand ecological processes and inform conservation.</p>
+    <div class="actions">
+      <a class="button button-primary" href="Projects.html">Explore my research <span aria-hidden="true">↗</span></a>
+      <a class="button button-outline" href="Publications.html">See publications <span aria-hidden="true">↗</span></a>
+    </div>
+    <div class="social-links" aria-label="Research profiles">
+      <a href="https://orcid.org/0000-0002-1924-0130">ORCID ↗</a>
+      <a href="https://scholar.google.es/citations?user=uOUlRsYAAAAJ&amp;hl=en">Google Scholar ↗</a>
+      <a href="https://github.com/JAmartinavila">GitHub ↗</a>
+    </div>
+  </div>
+  <div class="hero-photo-wrap">
+    <div class="photo-shape" aria-hidden="true"></div>
+    <img class="hero-photo" src="Jorge.jpeg" alt="Jorge A. Martín-Ávila during ecological fieldwork beside two raptor nestlings." loading="eager">
+    <div class="photo-caption"><span class="caption-marker">01 / FIELDWORK</span><span>From the field to the evidence.</span></div>
+  </div>
+</section>
 
-## Education
+<section class="intro-band" aria-label="Research keywords">
+  <span>Ecology &amp; biodiversity</span><span>Invasive species</span><span>Spatial ecology</span><span>Ecosystem services</span>
+</section>
 
-University of Alcalá, Alcalá de Henares \| Madrid, ES. PhD in Ecology, Biodiversity and Global Change \| Dic. 2020
+<section class="home-section section-width" aria-labelledby="research-title">
+  <div class="section-heading">
+    <div><span class="eyebrow">WHAT DRIVES MY WORK</span><h2 id="research-title">Research interests</h2></div>
+    <p>Questions rooted in natural history, tested with quantitative tools, and connected to environmental challenges.</p>
+  </div>
+  <div class="research-grid">
+    <article class="research-card"><span class="card-number">01</span><div class="card-icon" aria-hidden="true">↗</div><h3>Species interactions &amp; invasive species</h3><p>How native predators respond to biological invasions, and how trophic interactions influence ecosystem functioning.</p></article>
+    <article class="research-card"><span class="card-number">02</span><div class="card-icon" aria-hidden="true">⌁</div><h3>Landscape &amp; movement ecology</h3><p>Linking animal movement and habitat use to landscape structure through GPS telemetry, field data and spatial models.</p></article>
+    <article class="research-card"><span class="card-number">03</span><div class="card-icon" aria-hidden="true">◎</div><h3>Ecosystem services &amp; conservation</h3><p>Quantifying the ecological and societal value of biodiversity to support better-informed conservation decisions.</p></article>
+  </div>
+  <a class="text-link" href="Projects.html">Discover current and past projects <span aria-hidden="true">→</span></a>
+</section>
 
-University of Alcalá, Alcalá de Henares \| Madrid, ES. Master in Animal Biology Research \| Sept. 2018 - July 2019
+<section class="spotlight-band" aria-labelledby="spotlight-title">
+  <div class="spotlight-inner section-width">
+    <div><span class="eyebrow eyebrow-light">FEATURED RESEARCH · 2026</span><h2 id="spotlight-title">Can a native raptor help control an invasive hornet?</h2><p>Our research on the European honey-buzzard explores the ecological and economic significance of natural pest regulation. The study estimates that one breeding pair can eliminate around 67–84 invasive hornet colonies per season.</p><a class="button button-light" href="https://doi.org/10.1016/j.ecoser.2026.101912">Read the study <span aria-hidden="true">↗</span></a></div>
+    <div class="spotlight-metric" aria-label="Study estimate of hornet colonies removed per breeding pair per season"><span class="metric">67–84</span><span class="metric-label">hornet colonies per pair<br>per breeding season <span class="metric-note">(model estimate)</span></span></div>
+  </div>
+</section>
 
-## Courses
+<section class="home-section section-width" aria-labelledby="papers-title">
+  <div class="section-heading"><div><span class="eyebrow">SELECTED OUTPUTS</span><h2 id="papers-title">Recent publications</h2></div><p>Peer-reviewed research spanning biological control, landscape ecology and ecosystem-service valuation.</p></div>
+  <div class="paper-list">
+    <a class="paper" href="https://doi.org/10.1016/j.ecoser.2026.101912"><span class="paper-year">2026</span><span class="paper-details"><strong>Integrating ecology and economics: European honey buzzards as ecosystem service providers against yellow-legged hornets</strong><span><em>Ecosystem Services</em> · Lead author</span></span><span class="paper-arrow" aria-hidden="true">↗</span></a>
+    <a class="paper" href="https://doi.org/10.1002/ps.8738"><span class="paper-year">2025</span><span class="paper-details"><strong>Encouraging native predators of invasive yellow-legged hornets: breeding habitat preferences of European honey buzzards in exotic Eucalyptus plantations</strong><span><em>Pest Management Science</em> · Lead author</span></span><span class="paper-arrow" aria-hidden="true">↗</span></a>
+    <a class="paper" href="https://doi.org/10.1002/ps.8622"><span class="paper-year">2025</span><span class="paper-details"><strong>The European honey buzzard as an ally for the control of the invasive yellow-legged hornet</strong><span><em>Pest Management Science</em> · Lead author</span></span><span class="paper-arrow" aria-hidden="true">↗</span></a>
+  </div>
+  <a class="text-link" href="Publications.html">View full publication list <span aria-hidden="true">→</span></a>
+</section>
 
-Asociación Ecotono \| Ávila, ES. Camera Trapping Techniques Applied to Ecological Studies \| Feb. 2021 - March - 2021
-
-ARA Formación, Caldas de Reis \| Pontevedra, ES. Vertical Tree Climbing and Aerial Work \| Feb. 2021
-
-University of Alcalá, Alcalá de Henares \| Madrid, ES. Data Management and Visualization in R \| Jan. 2022
-
-Museo Nacional de Ciencias Naturales, CSIC \| Madrid, ES. Theory and Practice of Mixed Models with Fixed and Random Effects. Application to Natural Sciences Using R \| Feb. 2022 - March 2022
-
-Online \| Learn QGIS from Scratch: An Open-Source GIS \| May 2022
+<section class="contact-cta section-width" aria-labelledby="contact-title"><div><span class="eyebrow">LET'S CONNECT</span><h2 id="contact-title">Interested in ecology, data or collaboration?</h2><p>I'm always happy to exchange ideas about research and interdisciplinary projects.</p></div><a class="button button-primary" href="mailto:jorgeangel.martin@uah.es">Get in touch <span aria-hidden="true">↗</span></a></section>
