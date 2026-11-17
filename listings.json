@@ -1,16 +1,16 @@
 [
   {
+    "listing": "/Blog.html",
+    "items": [
+      "/posts/Carabo.html"
+    ]
+  },
+  {
     "listing": "/Projects.html",
     "items": [
       "/projects/EVALUAVE.html",
       "/projects/QUEVAIDS.html",
       "/projects/BiosCV.html"
-    ]
-  },
-  {
-    "listing": "/Blog.html",
-    "items": [
-      "/posts/Carabo.html"
     ]
   }
 ]
