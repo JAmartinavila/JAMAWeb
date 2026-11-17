@@ -1,0 +1,149 @@
+---
+title: "Student supervision"
+description: "Undergraduate and master's dissertations supervised by Jorge A. Martín-Ávila (2021–2023)."
+toc: false
+---
+
+::: {.supervision-intro}
+
+**MENTORING · ECOLOGY · RESEARCH TRAINING**
+
+My experience mentoring student research has grown alongside my own work in field ecology and ecological modelling. These projects explore questions about **animal behaviour, species interactions, biological invasions and conservation**, combining field observations and quantitative methods.
+
+:::
+
+::: {.supervision-numbers}
+::: {.supervision-number}
+**9**
+
+Student dissertations
+:::
+::: {.supervision-number}
+**7**
+
+Undergraduate dissertations
+:::
+::: {.supervision-number}
+**2**
+
+Master's dissertations
+:::
+::: {.supervision-number}
+**2021–2023**
+
+Supervision period
+:::
+:::
+
+## Master's dissertations
+
+::: {.supervision-list}
+::: {.supervision-item}
+<span class="supervision-year">2023 · MASTER'S DISSERTATION</span>
+
+### Preferencias de hábitat de nidificación del abejero europeo (Pernis apivorus) en plantaciones forestales de eucalipto del noroeste de España
+
+**Adrián Remón Elola** · MSc in Ecosystem Restoration · Interuniversity programme: UAH, UCM, URJC and UPM
+
+**My role:** Thesis director; academic tutor: Salvador Rebollo de la Torre.
+
+*Focus:* Multiscale habitat selection and nesting preferences of European honey-buzzards in eucalypt plantations.
+:::
+::: {.supervision-item}
+<span class="supervision-year">2022 · MASTER'S DISSERTATION</span>
+
+### Ecología espacial del abejero europeo Pernis apivorus (Linnaeus, 1758) en Galicia: dominio vital, hábitats de caza y características de los avisperos atacados
+
+**María Hernández García** · MSc in Ecology · Autonomous University of Madrid and Complutense University of Madrid
+
+**My role:** Co-director with Salvador Rebollo de la Torre; academic tutor: Ana Margarida Coelho dos Santos.
+
+*Focus:* GPS telemetry, home ranges, foraging habitats and wasp nests attacked by honey-buzzards.
+:::
+:::
+
+## Undergraduate dissertations
+
+::: {.supervision-list}
+::: {.supervision-item}
+<span class="supervision-year">2023 · UNDERGRADUATE DISSERTATION</span>
+
+### Correlación entre abundancia de obreras y densidad de avisperos de la avispa asiática (Vespa velutina) y sus implicaciones en el estudio del efecto del abejero europeo (Pernis apivorus) sobre la plaga
+
+**Alfonso Pérez Álvarez** · BSc in Biology · University of Alcalá
+
+**My role:** Co-supervisor with Luisa M. Díaz Aranda.
+
+*Focus:* Relating worker trapping data to the density of invasive hornet colonies.
+:::
+::: {.supervision-item}
+<span class="supervision-year">2022 · UNDERGRADUATE DISSERTATION</span>
+
+### Efecto de la actividad del abejero europeo (Pernis apivorus) sobre la abundancia de avispa asiática (Vespa velutina)
+
+**Alejandro Sanz Amor** · BSc in Biology · University of Alcalá
+
+**My role:** Co-supervisor with Luisa M. Díaz Aranda.
+
+*Focus:* Assessing how honey-buzzard activity relates to the abundance of invasive yellow-legged hornets.
+:::
+::: {.supervision-item}
+<span class="supervision-year">2022 · UNDERGRADUATE DISSERTATION</span>
+
+### Teoría del Forrajeo Óptimo aplicada a las actividades de depredación del abejero europeo (Pernis apivorus)
+
+**Alejandro Conte Peralta** · BSc in Environmental Sciences · University of Alcalá
+
+**My role:** Co-supervisor with Salvador Rebollo de la Torre.
+
+*Focus:* Testing optimal-foraging predictions using honey-buzzard nest predation and movement data.
+:::
+::: {.supervision-item}
+<span class="supervision-year">2022 · UNDERGRADUATE DISSERTATION</span>
+
+### Movimientos migratorios e invernada del abejero europeo (Pernis apivorus): implicaciones para la conservación
+
+**Lucía Peña Nebreda** · BSc in Environmental Sciences · University of Alcalá
+
+**My role:** Co-supervisor with Salvador Rebollo de la Torre.
+
+*Focus:* Migration routes, travel speeds and wintering areas in Africa.
+:::
+::: {.supervision-item}
+<span class="supervision-year">2021 · UNDERGRADUATE DISSERTATION</span>
+
+### Uso de “greenery” por el abejero europeo (Pernis apivorus)
+
+**Ángel Plou Vallespín** · BSc in Biology · University of Alcalá
+
+**My role:** Co-supervisor with Luisa M. Díaz Aranda.
+
+*Focus:* Use of green plant material in honey-buzzard nests and its possible courtship and antiparasitic functions.
+:::
+::: {.supervision-item}
+<span class="supervision-year">2021 · UNDERGRADUATE DISSERTATION</span>
+
+### Diferencias interespecíficas en las comunidades de artrópodos de los nidos de dos especies de aves trogloditas y sus relaciones con variables ambientales y temporales
+
+**Javier García Velasco** · BSc in Biology · University of Alcalá
+
+**My role:** Co-supervisor with Santiago Merino Rodríguez; academic tutor: Juan Junoy.
+
+*Focus:* Arthropod communities, nest microclimate and ectoparasites in great tits and blue tits.
+:::
+::: {.supervision-item}
+<span class="supervision-year">2021 · UNDERGRADUATE DISSERTATION</span>
+
+### Métodos de control de la avispa asiática Vespa velutina (Lepeletier, 1836) en el noroeste de España: trampeo de reinas y eliminación de nidos
+
+**Roberto Fernández Maestre** · BSc in Environmental Sciences · University of Alcalá
+
+**My role:** Co-supervisor with Salvador Rebollo de la Torre.
+
+*Focus:* Evaluation of queen trapping and nest removal as tools for invasive-hornet management.
+:::
+:::
+
+::: {.supervision-note}
+The titles are reproduced in their original Spanish. Roles are described according to the title pages or supervision documents of the dissertations. Student PDFs are not hosted here; links to institutional repositories can be added when public records are confirmed.
+:::

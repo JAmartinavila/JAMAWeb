@@ -26,6 +26,12 @@ My professional work includes ecological data processing, habitat assessment and
 
 My doctoral research (2021–2025) was supported by a Spanish FPI predoctoral fellowship. I have worked on ecological fieldwork, GPS telemetry, camera-trap monitoring, statistical modelling, scientific writing and interdisciplinary research. My experience includes an international research stay at **Senckenberg** in Frankfurt and university teaching activities.
 
+## Student supervision
+
+I have contributed to the supervision of **nine undergraduate and master's dissertations** (2021–2023), spanning animal ecology, migration, habitat selection, biological invasions and ecological data analysis. My roles include thesis direction and joint supervision.
+
+[Explore supervised dissertations](Supervision.qmd)
+
 ## Methods and tools
 
 <div class="skill-grid">

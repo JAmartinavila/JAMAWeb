@@ -21,6 +21,10 @@ website:
         href: Projects.qmd
       - text: Publications
         href: Publications.qmd
+      - text: Supervision
+        href: Supervision.qmd
+      - text: Divulgación
+        href: Outreach.qmd
       - text: About
         href: About.qmd
       - text: Field notes

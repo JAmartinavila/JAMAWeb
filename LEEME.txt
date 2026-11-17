@@ -1,0 +1,32 @@
+JAMAWeb — Añadir sección Student supervision
+=================================================
+
+ARCHIVOS PARA COPIAR EN LA RAÍZ DE TU REPOSITORIO CLONADO (GitHub Desktop):
+- Supervision.qmd  (NUEVO)
+- _quarto.yml     (REEMPLAZAR: añade entrada Supervision al menú)
+- About.qmd       (REEMPLAZAR: añade enlace desde el perfil)
+- styles.css      (REEMPLAZAR: incorpora estilos, conserva la divulgación)
+
+NO copies estos PDF al repositorio: son trabajos de estudiantes, algunos firmados y con
+correos o datos personales. La nueva web publica únicamente la referencia de cada
+trabajo, sus autores y tu papel de supervisión documentado.
+
+INSTRUCCIONES
+1. Haz copia de seguridad de esos archivos actuales.
+2. Abre GitHub Desktop y comprueba Current repository: JAMAWeb.
+3. Repository > Show in Explorer, pega allí los cuatro archivos, sin tocar .git.
+4. En Changes confirma estos 4 archivos; Commit to main y Push origin.
+5. Comprueba GitHub Actions / Quarto Publish. Si falla, comparte el registro.
+6. Verifica la pestaña Supervision y el enlace desde About.
+
+CONTENIDO
+- Nueve proyectos (7 TFG y 2 TFM) con el título original, estudiante,
+  titulación, año, universidad y función de supervisión.
+- No se suben PDF de alumnos ni se inventan URLs de descarga.
+- Los certificados de docencia no se integran todavía.
+
+NOTA DE CONTEXTO
+Se ha partido de la versión de la web que veníamos editando en la conversación,
+con el menú Divulgación y el archivo styles.css de la última actualización.
+Si has hecho modificaciones adicionales en tu equipo sobre esos archivos, usa la
+comparación de GitHub Desktop antes de reemplazarlos para conservarlas.
