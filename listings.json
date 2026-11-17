@@ -1,16 +1,17 @@
 [
   {
-    "listing": "/Projects.html",
-    "items": [
-      "/projects/BiosCV.html",
-      "/projects/EVALUAVE.html",
-      "/projects/QUEVAIDS.html"
-    ]
-  },
-  {
     "listing": "/Blog.html",
     "items": [
       "/posts/Carabo.html"
+    ]
+  },
+  {
+    "listing": "/Projects.html",
+    "items": [
+      "/projects/EVALUAVE.html",
+      "/projects/QUEVAIDS.html",
+      "/projects/BiosCV.html",
+      "/projects/honey-buzzard.html"
     ]
   }
 ]

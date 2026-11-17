@@ -1,17 +1,136 @@
 [
   {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jorge A. Martín-Ávila | Ecologist",
     "section": "",
-    "text": "BIOS Cabo Verde\n\n\n\nVolunteering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEVALUAVE\n\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQueVADIS\n\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "&lt;div class=\"eyebrow\"&gt;&lt;span class=\"dot\"&gt;&lt;/span&gt; ECOLOGIST · PhD · SPAIN&lt;/div&gt;\n&lt;h1 id=\"hero-title\"&gt;Understanding nature.&lt;br&gt;&lt;em&gt;Inspired by a deep love for the natural world.&lt;/em&gt;&lt;/h1&gt;\n&lt;p class=\"hero-intro\"&gt;I'm &lt;strong&gt;Jorge A. Martín-Ávila&lt;/strong&gt;, an ecologist working at the intersection of biodiversity, species interactions and the benefits that functioning ecosystems provide to people.&lt;/p&gt;\n&lt;p class=\"hero-secondary\"&gt;My research combines field ecology, GPS tracking, ecological modelling and spatial analysis to understand ecological processes and inform conservation.&lt;/p&gt;\n&lt;div class=\"actions\"&gt;\n  &lt;a class=\"button button-primary\" href=\"Projects.html\"&gt;Explore my research &lt;span aria-hidden=\"true\"&gt;↗&lt;/span&gt;&lt;/a&gt;\n  &lt;a class=\"button button-outline\" href=\"Publications.html\"&gt;See publications &lt;span aria-hidden=\"true\"&gt;↗&lt;/span&gt;&lt;/a&gt;\n&lt;/div&gt;\n&lt;div class=\"social-links\" aria-label=\"Research profiles\"&gt;\n  &lt;a href=\"https://orcid.org/0000-0002-1924-0130\"&gt;ORCID ↗&lt;/a&gt;\n  &lt;a href=\"https://scholar.google.es/citations?user=uOUlRsYAAAAJ&amp;hl=en\"&gt;Google Scholar ↗&lt;/a&gt;\n  &lt;a href=\"https://github.com/JAmartinavila\"&gt;GitHub ↗&lt;/a&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"photo-shape\" aria-hidden=\"true\"&gt;&lt;/div&gt;\n&lt;img class=\"hero-photo\" src=\"Jorge.jpeg\" alt=\"Jorge A. Martín-Ávila during ecological fieldwork beside two raptor nestlings.\" loading=\"eager\"&gt;\n&lt;div class=\"photo-caption\"&gt;&lt;span class=\"caption-marker\"&gt;01 / FIELDWORK&lt;/span&gt;&lt;span&gt;From the field to the evidence.&lt;/span&gt;&lt;/div&gt;\n\n\n\nEcology & biodiversityInvasive speciesSpatial ecologyEcosystem services\n\n\n\n&lt;div&gt;&lt;span class=\"eyebrow\"&gt;WHAT DRIVES MY WORK&lt;/span&gt;&lt;h2 id=\"research-title\"&gt;Research interests&lt;/h2&gt;&lt;/div&gt;\n&lt;p&gt;Questions rooted in natural history, tested with quantitative tools, and connected to environmental challenges.&lt;/p&gt;\n\n\n&lt;article class=\"research-card\"&gt;&lt;span class=\"card-number\"&gt;01&lt;/span&gt;&lt;div class=\"card-icon\" aria-hidden=\"true\"&gt;↗&lt;/div&gt;&lt;h3&gt;Species interactions &amp; invasive species&lt;/h3&gt;&lt;p&gt;How native predators respond to biological invasions, and how trophic interactions influence ecosystem functioning.&lt;/p&gt;&lt;/article&gt;\n&lt;article class=\"research-card\"&gt;&lt;span class=\"card-number\"&gt;02&lt;/span&gt;&lt;div class=\"card-icon\" aria-hidden=\"true\"&gt;⌁&lt;/div&gt;&lt;h3&gt;Landscape &amp; movement ecology&lt;/h3&gt;&lt;p&gt;Linking animal movement and habitat use to landscape structure through GPS telemetry, field data and spatial models.&lt;/p&gt;&lt;/article&gt;\n&lt;article class=\"research-card\"&gt;&lt;span class=\"card-number\"&gt;03&lt;/span&gt;&lt;div class=\"card-icon\" aria-hidden=\"true\"&gt;◎&lt;/div&gt;&lt;h3&gt;Ecosystem services &amp; conservation&lt;/h3&gt;&lt;p&gt;Quantifying the ecological and societal value of biodiversity to support better-informed conservation decisions.&lt;/p&gt;&lt;/article&gt;\n\nDiscover current and past projects →\n\n\n\n&lt;div&gt;&lt;span class=\"eyebrow eyebrow-light\"&gt;FEATURED RESEARCH · 2026&lt;/span&gt;&lt;h2 id=\"spotlight-title\"&gt;Can a native raptor help control an invasive hornet?&lt;/h2&gt;&lt;p&gt;Our research on the European honey-buzzard explores the ecological and economic significance of natural pest regulation. The study estimates that one breeding pair can eliminate around 67–84 invasive hornet colonies per season.&lt;/p&gt;&lt;a class=\"button button-light\" href=\"https://doi.org/10.1016/j.ecoser.2026.101912\"&gt;Read the study &lt;span aria-hidden=\"true\"&gt;↗&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;\n&lt;div class=\"spotlight-metric\" aria-label=\"Study estimate of hornet colonies removed per breeding pair per season\"&gt;&lt;span class=\"metric\"&gt;67–84&lt;/span&gt;&lt;span class=\"metric-label\"&gt;hornet colonies per pair&lt;br&gt;per breeding season &lt;span class=\"metric-note\"&gt;(model estimate)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;\n\n\n\n\n\nSELECTED OUTPUTS\n\nRecent publications\n\n\n\nPeer-reviewed research spanning biological control, landscape ecology and ecosystem-service valuation.\n\n\n\n&lt;a class=\"paper\" href=\"https://doi.org/10.1016/j.ecoser.2026.101912\"&gt;&lt;span class=\"paper-year\"&gt;2026&lt;/span&gt;&lt;span class=\"paper-details\"&gt;&lt;strong&gt;Integrating ecology and economics: European honey buzzards as ecosystem service providers against yellow-legged hornets&lt;/strong&gt;&lt;span&gt;&lt;em&gt;Ecosystem Services&lt;/em&gt; · Lead author&lt;/span&gt;&lt;/span&gt;&lt;span class=\"paper-arrow\" aria-hidden=\"true\"&gt;↗&lt;/span&gt;&lt;/a&gt;\n&lt;a class=\"paper\" href=\"https://doi.org/10.1002/ps.8738\"&gt;&lt;span class=\"paper-year\"&gt;2025&lt;/span&gt;&lt;span class=\"paper-details\"&gt;&lt;strong&gt;Encouraging native predators of invasive yellow-legged hornets: breeding habitat preferences of European honey buzzards in exotic Eucalyptus plantations&lt;/strong&gt;&lt;span&gt;&lt;em&gt;Pest Management Science&lt;/em&gt; · Lead author&lt;/span&gt;&lt;/span&gt;&lt;span class=\"paper-arrow\" aria-hidden=\"true\"&gt;↗&lt;/span&gt;&lt;/a&gt;\n&lt;a class=\"paper\" href=\"https://doi.org/10.1002/ps.8622\"&gt;&lt;span class=\"paper-year\"&gt;2025&lt;/span&gt;&lt;span class=\"paper-details\"&gt;&lt;strong&gt;The European honey buzzard as an ally for the control of the invasive yellow-legged hornet&lt;/strong&gt;&lt;span&gt;&lt;em&gt;Pest Management Science&lt;/em&gt; · Lead author&lt;/span&gt;&lt;/span&gt;&lt;span class=\"paper-arrow\" aria-hidden=\"true\"&gt;↗&lt;/span&gt;&lt;/a&gt;\n\nView full publication list →\n\n\n\nLET’S CONNECT\n\nInterested in ecology, data or collaboration?\n\n\nI’m always happy to exchange ideas about research and interdisciplinary projects.\n\n\nGet in touch ↗"
+  },
+  {
+    "objectID": "posts/Carabo.html",
+    "href": "posts/Carabo.html",
+    "title": "The tawny owl in my garden",
+    "section": "",
+    "text": "Since childhood, I have felt a deep interest in nature. J.O. Schmidt says in his book The Sting of the Wild that “children are born naturalists whose play is the exploration of the environment around them.” I don’t know whether, in my case, this interest is innate or learned. What I do know for sure is that I had the immense fortune of growing up in a rural environment that allowed me close contact with nature, and that, along with the educational figure my grandfather Alfonso represented for me, clearly influenced the development of my interests and what would ultimately become my profession.\nAlfonso and I spent a lot of time together. He was an extremely intelligent man who, despite his “limited academic background,” as we might say today in this title-obsessed world, always knew how to make a living and carry out his projects. He was highly knowledgeable about the natural world, and thanks to him, by the age of 2 or 3, I wasn’t saying “that’s a tree,” but “that’s an elm,” nor “that plant,” but “that’s an oleander,” and not “that bug,” but “that’s a stink bug.”\nOne summer night, Alfonso and I had gone out to take the trash, as we often did, when a sound interrupted whatever it was we were talking about.\n“Grandpa, an owl!” I said, upon hearing the sorrowful hoot in the distance.\n“No, sweetheart. That sound is a tawny owl. It’s like an owl, but smaller and without ‘ears’.”\nAt the beginning of the century, we didn’t have the option of reaching into our pocket and pulling out a mobile phone to quickly look up a picture to illustrate our conversations. So there I stayed, imagining what a tawny owl might look like—an image that was soon replaced in my mind by the gecko I spotted climbing one of the village walls.\n\nAs a Biologist\nAs a biologist, and later during my doctoral studies at the University of Alcalá, I was able to learn much more about nature. I gradually moved into the fields of ecology, entomology, and ornithology, and continued to interpret the natural world I discovered as a child in a more scientific way.\nThe call of the tawny owl, along with the songs of the many bird species that inhabit the area around my home, accompanied me as I grew up. At a certain point, I learned that the availability of habitat and nesting shelter is a major limiting factor in bird reproduction, and I caught the “nest box bug,” just like so many other bird enthusiasts. I’ve put up nest boxes for all kinds of birds throughout my garden, around my house, and even in the trees of the Science Faculty garden at the University of Alcalá—until, once again, the call of the tawny owl reminded me that it, too, would appreciate a good nesting spot.\n\nLike Just Another Neighbor\nLike just another neighbor, the tawny owl moved into the nest box I had prepared. It accepted it almost immediately, as if it had been waiting for it. As if it had seen me building and placing it, and already had its bags packed. The first monitored nesting season was 2022–2023. That year, I was able to admire from the outside the occasional arrival of the adult birds, and the fledglings when they dared to leave the nest and settled in nearby trees. Observing that process inevitably led me to wonder what it would be like to see everything happening inside the nest box, just like I’d seen in SEO live camera feeds.\n\n\nFor the 2023–2024 breeding season, I decided to install a live monitoring camera inside the nest box, which allowed me to learn more about the private life of our tawny owl neighbors. I was surprised by the sheer number of birds from different species that the adults used to feed the chicks: blackbirds, wood pigeons, Eurasian collared doves, and swallows were the most common prey. Field mice and rats were also abundant. More rarely, I witnessed a gecko, a garden dormouse, and even a small rabbit being brought in. Tawny owl populations are among the few increasing among nocturnal birds of prey, and this is very likely due to their tolerance of human presence and the generalist nature of their diet.\n\n\nCollaborating with SEO/BirdLife\nCollaborating with SEO/BirdLife on the study of this species through video cameras was a wonderful surprise. Carlos and Santiago contacted me after seeing the videos I regularly uploaded to YouTube, highlighting the best footage captured by the nest camera. For the upcoming nesting season—and thanks to the support of SEO—the nest will be available to view live 24 hours a day, and will be equipped with two video cameras: one inside the box, to admire the chicks’ development, and one outside, to observe more adult behavior.\nThanks to the essential support of the SEO/BirdLife team, we hope to continue capturing magical moments of this species in the coming years, gain deeper insight into the reproductive biology of a nocturnal species that is rarely seen, and ensure that this family of tawny owls remains in the neighborhood for a long time."
+  },
+  {
+    "objectID": "projects/honey-buzzard.html",
+    "href": "projects/honey-buzzard.html",
+    "title": "Native predators and biological control of the Asian hornet",
+    "section": "",
+    "text": "The invasive yellow-legged hornet (Vespa velutina) poses ecological and economic challenges across Europe. My doctoral research investigated the role of the European honey-buzzard (Pernis apivorus) as a native predator of this invasive species.\nWe combined nest monitoring, camera traps, tracking devices, diet analysis, spatial modelling and ecosystem-service valuation. This work links predator behaviour to biological pest regulation and conservation decisions.\n\n\n\nHow does the honey-buzzard exploit invasive hornets during the breeding season?\nWhich breeding habitats and landscape features support its ecological functions?\nHow can the biological and economic contribution of native predators be quantified?\n\n\n\n\n\nIntegrating ecology and economics: European honey buzzards as ecosystem service providers against yellow-legged hornets. Ecosystem Services (2026).\nEncouraging native predators of invasive yellow-legged hornets. Pest Management Science (2025).\nThe European honey buzzard as an ally for invasive hornet control. Pest Management Science (2025).\n\nMy doctoral thesis is also accessible through the University of Alcalá repository."
+  },
+  {
+    "objectID": "projects/honey-buzzard.html#ecology-with-practical-consequences",
+    "href": "projects/honey-buzzard.html#ecology-with-practical-consequences",
+    "title": "Native predators and biological control of the Asian hornet",
+    "section": "",
+    "text": "The invasive yellow-legged hornet (Vespa velutina) poses ecological and economic challenges across Europe. My doctoral research investigated the role of the European honey-buzzard (Pernis apivorus) as a native predator of this invasive species.\nWe combined nest monitoring, camera traps, tracking devices, diet analysis, spatial modelling and ecosystem-service valuation. This work links predator behaviour to biological pest regulation and conservation decisions.\n\n\n\nHow does the honey-buzzard exploit invasive hornets during the breeding season?\nWhich breeding habitats and landscape features support its ecological functions?\nHow can the biological and economic contribution of native predators be quantified?\n\n\n\n\n\nIntegrating ecology and economics: European honey buzzards as ecosystem service providers against yellow-legged hornets. Ecosystem Services (2026).\nEncouraging native predators of invasive yellow-legged hornets. Pest Management Science (2025).\nThe European honey buzzard as an ally for invasive hornet control. Pest Management Science (2025).\n\nMy doctoral thesis is also accessible through the University of Alcalá repository."
+  },
+  {
+    "objectID": "projects/QUEVAIDS.html",
+    "href": "projects/QUEVAIDS.html",
+    "title": "QueVADIS",
+    "section": "",
+    "text": "Colonization differences among coexisting oaks: from acorn properties and dispersal to facilitation - Diferencias de colonización de quercíneas coexistentes: desde las propiedades y la dispersión de las bellotas a la facilitación - (QueVADIS)"
+  },
+  {
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am Jorge A. Martín-Ávila, a PhD in Ecology, Biodiversity and Global Change from the University of Alcalá (Spain). My interests lie in the links between biodiversity, species interactions, landscape ecology, and ecosystem services.\nMy work has involved monitoring raptor nests, studying their diet and movements, and using ecological and statistical models to understand how native predators interact with an invasive species. I value research that moves between field observations, rigorous analysis and actionable conservation questions."
+  },
+  {
+    "objectID": "About.html#field-biologist-by-training-quantitative-ecologist-by-practice.",
+    "href": "About.html#field-biologist-by-training-quantitative-ecologist-by-practice.",
+    "title": "About me",
+    "section": "",
+    "text": "I am Jorge A. Martín-Ávila, a PhD in Ecology, Biodiversity and Global Change from the University of Alcalá (Spain). My interests lie in the links between biodiversity, species interactions, landscape ecology, and ecosystem services.\nMy work has involved monitoring raptor nests, studying their diet and movements, and using ecological and statistical models to understand how native predators interact with an invasive species. I value research that moves between field observations, rigorous analysis and actionable conservation questions."
+  },
+  {
+    "objectID": "About.html#current-work",
+    "href": "About.html#current-work",
+    "title": "About me",
+    "section": "Current work",
+    "text": "Current work\nEnvironmental assessment and data analysis — Tragsatec (Spain)\nMy professional work includes ecological data processing, habitat assessment and spatial analysis. I continue to develop my academic research interests and collaborations in parallel."
+  },
+  {
+    "objectID": "About.html#academic-background",
+    "href": "About.html#academic-background",
+    "title": "About me",
+    "section": "Academic background",
+    "text": "Academic background\n\nPhD in Ecology, Biodiversity and Global Change — University of Alcalá, 2025. Cum laude, international mention. Thesis: The role of the honey buzzard in the control of the Asian hornet.\nMSc in Animal Biology Research — University of Alcalá, 2019.\nBSc in Biology — University of Alcalá, 2018."
+  },
+  {
+    "objectID": "About.html#research-experience",
+    "href": "About.html#research-experience",
+    "title": "About me",
+    "section": "Research experience",
+    "text": "Research experience\nMy doctoral research (2021–2025) was supported by a Spanish FPI predoctoral fellowship. I have worked on ecological fieldwork, GPS telemetry, camera-trap monitoring, statistical modelling, scientific writing and interdisciplinary research. My experience includes an international research stay at Senckenberg in Frankfurt and university teaching activities."
+  },
+  {
+    "objectID": "About.html#methods-and-tools",
+    "href": "About.html#methods-and-tools",
+    "title": "About me",
+    "section": "Methods and tools",
+    "text": "Methods and tools\n\n\n\nQuantitative analysis\n\n\nR, mixed-effects models, spatial statistics, data visualisation and reproducible research workflows.\n\n\n\n\nGeospatial tools\n\n\nQGIS, sf, terra, GPS tracking data, habitat and landscape analyses.\n\n\n\n\nField research\n\n\nRaptor monitoring, camera trapping, nest observations, field protocols and biodiversity surveys.\n\n\n\n\nCommunication\n\n\nPeer-reviewed publishing, scientific presentations, teaching, Quarto and open-science workflows."
+  },
+  {
+    "objectID": "About.html#selected-additional-training",
+    "href": "About.html#selected-additional-training",
+    "title": "About me",
+    "section": "Selected additional training",
+    "text": "Selected additional training\n\nCamera trapping for ecological studies — Asociación Ecotono, Ávila (2021).\nVertical tree climbing and aerial fieldwork — ARA Formación, Caldas de Reis (2021).\nData management and visualisation in R — University of Alcalá (2022).\nMixed models for natural sciences using R — Museo Nacional de Ciencias Naturales (CSIC), Madrid (2022).\nGeographic information systems with QGIS — Online training (2022)."
+  },
+  {
+    "objectID": "About.html#academic-profiles-and-contact",
+    "href": "About.html#academic-profiles-and-contact",
+    "title": "About me",
+    "section": "Academic profiles and contact",
+    "text": "Academic profiles and contact\n\nGoogle Scholar\nORCID\nGitHub\nEmail\n\nFull academic CV: Available on request."
   },
   {
     "objectID": "Publications.html",
     "href": "Publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Articles\n\nRebollo, S., Pérez-Camacho, L., Martínez-Baroja, L., Martín-Ávila, J. A., Díaz-Aranda, L. M., Lorente-Casalini, O., Morato, N., Fernández-Pereira, J. M., Cuevas, J. A., Rey-Benayas, J. M. & Villar-Salvador, P. (2025) Sinergias entre el fototrampeo y tecnologías de seguimiento con emisores para el estudio de servicios ecosistémicos suministrados por la avifauna. Ecosistemas 34 (1): 2876 [PDF]\nMartín‐Ávila, J. A., Rebollo, S., Fernández‐Pereira, J. M., Monteagudo, N. & Díaz‐Aranda, L. M. (2025) Encouraging native predators of invasive yellow-legged hornets: breeding habitat preferences of European honey buzzards in exotic Eucalyptus plantations. Pest Management Science s/n [PDF]\nMartín‐Ávila, J. A., Díaz‐Aranda, L. M., Fernández‐Pereira, J. M., & Rebollo, S. (2025) The European honey buzzard (Pernis apivorus) as an ally for the control of the invasive yellow-legged hornet (Vespa velutina nigrithorax). Pest Management Science 81(4): 2237-2247 [PDF]\nMartín‐Ávila, J. A., Rebollo, S., Fernández‐Pereira, J. M., & Díaz‐Aranda, L. M. (2024) The trophic strategy of the European honey‐buzzard Pernis apivorus during breeding: extravagant specialization or ingenious solution?. Journal of Avian Biology e03221 [PDF]\nLorente-Casalini, O., Rodes-Blanco, M., Aguirre-Iglesias, S., Martín-Ávila, J. A., Molina, D. S. S., Tijerín-Triviño, J., & Astigarraga, J. (2024) Tidyverse: colección de paquetes de R para la ciencia de datos. Ecosistemas 33 (3): 2745 [PDF]\nRebollo, S., Díaz-Aranda, L. M., Martín-Ávila, J. A., Hernández-García, M., López-Rodríguez, M., Monteagudo, N., & Fernández-Pereira, J. M. (2023) Assessment of the consumption of the exotic Asian Hornet Vespa velutina by the European Honey Buzzard Pernis apivorus in southwestern Europe. Bird Study 70 (3): 136-150"
+    "text": "Selected peer-reviewed publications, newest first. My name is in bold. For complete and continuously updated bibliographic information, see my Google Scholar profile or ORCID."
+  },
+  {
+    "objectID": "Publications.html#section",
+    "href": "Publications.html#section",
+    "title": "Publications",
+    "section": "2026",
+    "text": "2026\n\nFIRST AUTHOR · OPEN ACCESS\n\nIntegrating ecology and economics: European honey buzzards as ecosystem service providers against yellow-legged hornets\n\n\nMartín-Ávila, J. A., Barrio, M., Alló, M., Hernández-García, M., Fernández-Pereira, J. M., Díaz-Aranda, L. M., & Rebollo, S.\n\n\nEcosystem Services, 82, 101912. DOI ↗\n\n\n\nCO-AUTHOR\n\nThe fossil record of insect bone bioerosion: Insights from titanosaur remains at Lo Hueco (Late Cretaceous, Spain) and implications for continental ichnofacies\n\n\nBelaústegui, Z., Narváez, I., Ortega, F., Martín-Ávila, J. A., Martín-Vega, D., & Martinell, J.\n\n\nEarth-Science Reviews, 280, 105561. DOI ↗"
+  },
+  {
+    "objectID": "Publications.html#section-1",
+    "href": "Publications.html#section-1",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\nFIRST AUTHOR\n\nEncouraging native predators of invasive yellow-legged hornets: breeding habitat preferences of European honey buzzards in exotic Eucalyptus plantations\n\n\nMartín-Ávila, J. A., Rebollo, S., Fernández-Pereira, J. M., Monteagudo, N., & Díaz-Aranda, L. M.\n\n\nPest Management Science, 81(7), 3704–3714. DOI ↗\n\n\n\nFIRST AUTHOR\n\nThe European honey buzzard (Pernis apivorus) as an ally for the control of the invasive yellow-legged hornet (Vespa velutina nigrithorax)\n\n\nMartín-Ávila, J. A., Díaz-Aranda, L. M., Fernández-Pereira, J. M., & Rebollo, S.\n\n\nPest Management Science, 81(4), 2237–2247. DOI ↗\n\n\n\nFIRST AUTHOR\n\nThe trophic strategy of the European honey-buzzard Pernis apivorus during breeding: extravagant specialization or ingenious solution?\n\n\nMartín-Ávila, J. A., Rebollo, S., Fernández-Pereira, J. M., & Díaz-Aranda, L. M.\n\n\nJournal of Avian Biology, 2025, e03221. DOI ↗\n\n\n\nCO-AUTHOR\n\nSinergias entre el fototrampeo y tecnologías de seguimiento con emisores para el estudio de servicios ecosistémicos suministrados por la avifauna\n\n\nRebollo, S., Pérez-Camacho, L., Martínez-Baroja, L., Martín-Ávila, J. A., et al.\n\n\nEcosistemas, 34(1), 2876. DOI ↗"
+  },
+  {
+    "objectID": "Publications.html#section-2",
+    "href": "Publications.html#section-2",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nCO-AUTHOR\n\nTidyverse: colección de paquetes de R para la ciencia de datos\n\n\nLorente-Casalini, O., Rodes-Blanco, M., Aguirre-Iglesias, S., Martín-Ávila, J. A., Molina, D. S. S., Tijerín-Triviño, J., & Astigarraga, J.\n\n\nEcosistemas, 33(3), 2745. DOI ↗"
+  },
+  {
+    "objectID": "Publications.html#section-3",
+    "href": "Publications.html#section-3",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nCO-AUTHOR\n\nAssessment of the consumption of the exotic Asian Hornet Vespa velutina by the European Honey Buzzard Pernis apivorus in southwestern Europe\n\n\nRebollo, S., Díaz-Aranda, L. M., Martín-Ávila, J. A., Hernández-García, M., López-Rodríguez, M., Monteagudo, N., & Fernández-Pereira, J. M.\n\n\nBird Study, 70(3), 136–150. DOI ↗\n\n\n\n\n\n\n\n\nNoteManuscripts in press\n\n\n\nAn additional study on biparental care and task-sharing in European honey-buzzards has been accepted by Animal Behaviour (2026). Its final bibliographic reference will be added when available."
+  },
+  {
+    "objectID": "projects/EVALUAVE.html",
+    "href": "projects/EVALUAVE.html",
+    "title": "EVALUAVE",
+    "section": "",
+    "text": "Assessing avian functions and ecosystem services in agroforestry systems - Evaluación de funciones y servicios ecosistémicos de la avifauna en sistemas agroforestales - (EVALUAVE)"
   },
   {
     "objectID": "projects/BiosCV.html",
@@ -25,48 +144,13 @@
     "href": "Blog.html",
     "title": "Blog",
     "section": "",
-    "text": "The tawny owl in my garden\n\n\nA special neighbour\n\n\n\n\n\nJorge Ángel Martín Ávila\n\n\n\n\n\nNo matching items"
+    "text": "The tawny owl in my garden\n\n\n\nA special neighbour\n\n\n\n\n\n\nJorge Ángel Martín Ávila\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/Carabo.html",
-    "href": "posts/Carabo.html",
-    "title": "The tawny owl in my garden",
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Research projects",
     "section": "",
-    "text": "Since childhood, I have felt a deep interest in nature. J.O. Schmidt says in his book The Sting of the Wild that “children are born naturalists whose play is the exploration of the environment around them.” I don’t know whether, in my case, this interest is innate or learned. What I do know for sure is that I had the immense fortune of growing up in a rural environment that allowed me close contact with nature, and that, along with the educational figure my grandfather Alfonso represented for me, clearly influenced the development of my interests and what would ultimately become my profession.\nAlfonso and I spent a lot of time together. He was an extremely intelligent man who, despite his “limited academic background,” as we might say today in this title-obsessed world, always knew how to make a living and carry out his projects. He was highly knowledgeable about the natural world, and thanks to him, by the age of 2 or 3, I wasn’t saying “that’s a tree,” but “that’s an elm,” nor “that plant,” but “that’s an oleander,” and not “that bug,” but “that’s a stink bug.”\nOne summer night, Alfonso and I had gone out to take the trash, as we often did, when a sound interrupted whatever it was we were talking about.\n“Grandpa, an owl!” I said, upon hearing the sorrowful hoot in the distance.\n“No, sweetheart. That sound is a tawny owl. It’s like an owl, but smaller and without ‘ears’.”\nAt the beginning of the century, we didn’t have the option of reaching into our pocket and pulling out a mobile phone to quickly look up a picture to illustrate our conversations. So there I stayed, imagining what a tawny owl might look like—an image that was soon replaced in my mind by the gecko I spotted climbing one of the village walls.\n\nAs a Biologist\nAs a biologist, and later during my doctoral studies at the University of Alcalá, I was able to learn much more about nature. I gradually moved into the fields of ecology, entomology, and ornithology, and continued to interpret the natural world I discovered as a child in a more scientific way.\nThe call of the tawny owl, along with the songs of the many bird species that inhabit the area around my home, accompanied me as I grew up. At a certain point, I learned that the availability of habitat and nesting shelter is a major limiting factor in bird reproduction, and I caught the “nest box bug,” just like so many other bird enthusiasts. I’ve put up nest boxes for all kinds of birds throughout my garden, around my house, and even in the trees of the Science Faculty garden at the University of Alcalá—until, once again, the call of the tawny owl reminded me that it, too, would appreciate a good nesting spot.\n\nLike Just Another Neighbor\nLike just another neighbor, the tawny owl moved into the nest box I had prepared. It accepted it almost immediately, as if it had been waiting for it. As if it had seen me building and placing it, and already had its bags packed. The first monitored nesting season was 2022–2023. That year, I was able to admire from the outside the occasional arrival of the adult birds, and the fledglings when they dared to leave the nest and settled in nearby trees. Observing that process inevitably led me to wonder what it would be like to see everything happening inside the nest box, just like I’d seen in SEO live camera feeds.\n\n\nFor the 2023–2024 breeding season, I decided to install a live monitoring camera inside the nest box, which allowed me to learn more about the private life of our tawny owl neighbors. I was surprised by the sheer number of birds from different species that the adults used to feed the chicks: blackbirds, wood pigeons, Eurasian collared doves, and swallows were the most common prey. Field mice and rats were also abundant. More rarely, I witnessed a gecko, a garden dormouse, and even a small rabbit being brought in. Tawny owl populations are among the few increasing among nocturnal birds of prey, and this is very likely due to their tolerance of human presence and the generalist nature of their diet.\n\n\nCollaborating with SEO/BirdLife\nCollaborating with SEO/BirdLife on the study of this species through video cameras was a wonderful surprise. Carlos and Santiago contacted me after seeing the videos I regularly uploaded to YouTube, highlighting the best footage captured by the nest camera. For the upcoming nesting season—and thanks to the support of SEO—the nest will be available to view live 24 hours a day, and will be equipped with two video cameras: one inside the box, to admire the chicks’ development, and one outside, to observe more adult behavior.\nThanks to the essential support of the SEO/BirdLife team, we hope to continue capturing magical moments of this species in the coming years, gain deeper insight into the reproductive biology of a nocturnal species that is rarely seen, and ensure that this family of tawny owls remains in the neighborhood for a long time."
-  },
-  {
-    "objectID": "projects/EVALUAVE.html",
-    "href": "projects/EVALUAVE.html",
-    "title": "EVALUAVE",
-    "section": "",
-    "text": "Assessing avian functions and ecosystem services in agroforestry systems - Evaluación de funciones y servicios ecosistémicos de la avifauna en sistemas agroforestales - (EVALUAVE)"
-  },
-  {
-    "objectID": "projects/QUEVAIDS.html",
-    "href": "projects/QUEVAIDS.html",
-    "title": "QueVADIS",
-    "section": "",
-    "text": "Colonization differences among coexisting oaks: from acorn properties and dispersal to facilitation - Diferencias de colonización de quercíneas coexistentes: desde las propiedades y la dispersión de las bellotas a la facilitación - (QueVADIS)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jorge A. Martín Ávila",
-    "section": "",
-    "text": "Hi! I am currently doing my PhD in the University of Alcalá. My research topic is the pest-regulation Ecosystem Service of the Asian hornet, provided by the European honey buzzard."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Jorge A. Martín Ávila",
-    "section": "Education",
-    "text": "Education\nUniversity of Alcalá, Alcalá de Henares | Madrid, ES. PhD in Ecology, Biodiversity and Global Change | Dic. 2020\nUniversity of Alcalá, Alcalá de Henares | Madrid, ES. Master in Animal Biology Research | Sept. 2018 - July 2019"
-  },
-  {
-    "objectID": "index.html#courses",
-    "href": "index.html#courses",
-    "title": "Jorge A. Martín Ávila",
-    "section": "Courses",
-    "text": "Courses\nAsociación Ecotono | Ávila, ES. Camera Trapping Techniques Applied to Ecological Studies | Feb. 2021 - March - 2021\nARA Formación, Caldas de Reis | Pontevedra, ES. Vertical Tree Climbing and Aerial Work | Feb. 2021\nUniversity of Alcalá, Alcalá de Henares | Madrid, ES. Data Management and Visualization in R | Jan. 2022\nMuseo Nacional de Ciencias Naturales, CSIC | Madrid, ES. Theory and Practice of Mixed Models with Fixed and Random Effects. Application to Natural Sciences Using R | Feb. 2022 - March 2022\nOnline | Learn QGIS from Scratch: An Open-Source GIS | May 2022"
+    "text": "Research ranging from species interactions and biodiversity to ecosystem services, developed through collaborations and extensive fieldwork.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEVALUAVE\n\n\n\nResearch\n\n\n\nAssessing bird-mediated ecosystem functions and services in agroforestry landscapes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQueVADIS\n\n\n\nResearch\n\n\n\nOak colonisation, acorn dispersal and facilitation in Mediterranean landscapes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIOS Cabo Verde\n\n\n\nVolunteering\n\n\n\nField conservation and sea-turtle monitoring on Boa Vista, Cabo Verde.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNative predators and biological control of the Asian hornet\n\n\n\nResearch\n\nEcology\n\nEcosystem services\n\n\n\nUsing field ecology, camera traps and GPS telemetry to investigate the ecological role of the European honey-buzzard.\n\n\n\n\n\n\nSep 18, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]
