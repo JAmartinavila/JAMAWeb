@@ -16,7 +16,7 @@ I believe that teaching and research are deeply connected. My teaching at the **
 
 ::: {.supervision-numbers}
 ::: {.supervision-number}
-**231 h**
+**267 h**
 
 Documented academic teaching
 :::
@@ -26,7 +26,7 @@ Documented academic teaching
 Degree & master's teaching
 :::
 ::: {.supervision-number}
-**21 h**
+**57 h**
 
 University of Seniors
 :::
@@ -72,19 +72,16 @@ Since the 2019–2020 academic year, I have also taught **Zoology II** in the Un
 
 | Academic year | Documented hours |
 |:---|---:|
+| **2025–2026** | 12 h |
+| **2024–2025** | 12 h |
+| **2023–2024** | 12 h |
 | **2022–2023** | 6 h |
 | **2021–2022** | 4.5 h |
 | **2020–2021** | 6 h |
 | **2019–2020** | 4.5 h |
+| **2019–2020** | 4.5 h |
 | **Total** | **21 h** |
 
-:::
-
-In **2022–2023**, I also served as **coordinator of Zoology II**, as stated in the programme certificate.
-
-::: {.teaching-evidence-note}
-
-**About the figures:** The 231 hours comprise 210 hours recorded in UAH departmental teaching certificates and 21 hours in University of Seniors certificates. Repeated copies of the same certificates were counted only once. Hours assigned but not confirmed in the final teaching certificate are not included. Research supervision, science outreach and invited talks are reported separately, not added to the teaching total. The supporting certificates are retained privately rather than published on this website.
 
 :::
 
