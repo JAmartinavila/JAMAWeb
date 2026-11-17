@@ -224,3 +224,18 @@ main.content { padding-bottom: 3rem; }
 .supervision-note p {font-size:.84rem !important; line-height:1.7; color:var(--muted) !important; margin:0 !important;}
 @media(max-width:760px){.supervision-numbers{grid-template-columns:repeat(2,minmax(0,1fr));}.supervision-intro{padding:1.15rem 1.35rem;}.supervision-item{padding:1.4rem .35rem;}}
 @media(prefers-reduced-motion:reduce){.supervision-item{transition:none;}}
+
+
+/* Teaching experience — complements the existing supervision design */
+.teaching-table-wrapper {margin:1.3rem 0 1.65rem; overflow-x:auto; border:1px solid var(--line); border-radius:8px;}
+.teaching-table-wrapper table {width:100%; margin:0; font-size:.87rem; border-collapse:collapse;}
+.teaching-table-wrapper th {background:#e9f0e7; color:var(--forest-dark); font-weight:700; padding:.85rem 1rem;}
+.teaching-table-wrapper td {padding:.86rem 1rem; vertical-align:top; border-bottom:1px solid var(--line); line-height:1.62;}
+.teaching-table-wrapper tr:last-child td {border-bottom:0;}
+.teaching-table-wrapper tr:nth-child(even) td {background:#fafcf9;}
+.teaching-table-wrapper td:nth-child(2),.teaching-table-wrapper th:nth-child(2){white-space:nowrap; text-align:right;}
+.teaching-highlight {padding:1.4rem 1.65rem; border-left:4px solid #80a78b; background:#f1f6ee; border-radius:0 7px 7px 0; margin:1.6rem 0 2.5rem;}
+.teaching-highlight > p {margin:.3rem 0 !important; font-size:.91rem; color:#43584b;}
+.teaching-evidence-note {padding:1.2rem 1.55rem; margin:2.2rem 0 3rem; border:1px solid var(--line); background:#fafbf8; border-radius:7px;}
+.teaching-evidence-note p {margin:0 !important; color:#65756a !important; font-size:.84rem; line-height:1.7;}
+@media(max-width:760px){.teaching-table-wrapper th,.teaching-table-wrapper td{padding:.75rem .7rem;}.teaching-highlight{padding:1rem 1.2rem;}}

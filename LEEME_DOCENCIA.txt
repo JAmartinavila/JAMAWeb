@@ -1,0 +1,48 @@
+JAMAWeb — Teaching & Supervision (November 2026)
+=================================================
+
+FILES TO COPY INTO YOUR EXISTING JAMAWeb REPOSITORY:
+- Supervision.qmd (replaces the previous student-supervision page)
+- _quarto.yml (renames the 'Supervision' menu entry to 'Teaching')
+- About.qmd (adds a concise teaching summary)
+- styles.css (adds layout rules for teaching tables)
+
+IN GITHUB DESKTOP:
+1. Repository > Show in Explorer.
+2. Copy these four files to the top-level folder of the CLONED repository.
+3. Replace the four existing files when prompted; do not delete .git.
+4. Review changes, Commit to main, Push origin, and check GitHub Actions.
+
+This patch is based on the latest files we previously prepared together.
+If you have edited _quarto.yml or styles.css independently since then,
+compare the differences before replacing those files.
+
+SOURCE CHECK — CERTIFICATES IN 'Docencia Impartida.zip'
+=================================================
+Degree and master's teaching at University of Alcalá:
+2020-2021 38 h | 2021-2022 38 h | 2022-2023 43 h
+2023-2024 58 h | 2024-2025 33 h => 210 h
+
+University of Seniors / Zoología II:
+2019-2020 4.5 h | 2020-2021 6 h | 2021-2022 4.5 h
+2022-2023 6 h => 21 h
+
+Combined documented total: 231 h, counting each activity only once.
+The 2023-2024 certificate includes 6 hours of examinations.
+In 2024-2025 41 hours were assigned but the final departmental
+certificate confirms 33 delivered: only 33 are counted here.
+
+Additionally documented, but NOT added to the academic-teaching total:
+- 1 h invited talk at the Autonomous University of Madrid (Dec 2021)
+- 6 h XXII Science and Innovation Week at UAH (2022)
+- CELANICA 2023 speaker certificate (no duration given)
+- 1 h SEO/BirdLife conference talk (June 2024)
+These may be added to the outreach page separately.
+
+The source ZIP contains teaching materials and signed documents with
+personal information. DO NOT upload the full original ZIP to the public
+GitHub repository. The new web page links to neither certificates nor raw
+academic materials.
+
+Validation: YAML was parsed successfully; HTML conversion of the QMD is
+checked with Pandoc. The full Quarto build must be verified in GitHub Actions.

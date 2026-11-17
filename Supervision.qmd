@@ -1,41 +1,98 @@
 ---
-title: "Student supervision"
-description: "Undergraduate and master's dissertations supervised by Jorge A. Martín-Ávila (2021–2023)."
-toc: false
+title: "Teaching & Supervision"
+description: "University teaching experience and nine undergraduate and master's dissertations supervised by Jorge A. Martín-Ávila."
+toc: true
+toc-depth: 2
 ---
+
 
 ::: {.supervision-intro}
 
-**MENTORING · ECOLOGY · RESEARCH TRAINING**
+**TEACHING · ECOLOGY · MENTORSHIP**
 
-My experience mentoring student research has grown alongside my own work in field ecology and ecological modelling. These projects explore questions about **animal behaviour, species interactions, biological invasions and conservation**, combining field observations and quantitative methods.
+I believe that teaching and research are deeply connected. My teaching at the **University of Alcalá** has combined classroom seminars, laboratory sessions and field-based training across biology, environmental sciences and forensic sciences. I have also helped undergraduate and master's students develop their own ecological research projects.
 
 :::
 
 ::: {.supervision-numbers}
 ::: {.supervision-number}
+**231 h**
+
+Documented academic teaching
+:::
+::: {.supervision-number}
+**210 h**
+
+Degree & master's teaching
+:::
+::: {.supervision-number}
+**21 h**
+
+University of Seniors
+:::
+::: {.supervision-number}
 **9**
 
-Student dissertations
-:::
-::: {.supervision-number}
-**7**
-
-Undergraduate dissertations
-:::
-::: {.supervision-number}
-**2**
-
-Master's dissertations
-:::
-::: {.supervision-number}
-**2021–2023**
-
-Supervision period
+Student dissertations supervised
 :::
 :::
 
-## Master's dissertations
+## Teaching experience
+
+### Undergraduate and master's programmes
+
+At the **University of Alcalá (UAH)**, I contributed to teaching in undergraduate and master's programmes over five academic years (**2020–2025**). Departmental certificates record **210 hours** across seminars, laboratory practicals, fieldwork and other assessed teaching activities.
+
+::: {.teaching-table-wrapper}
+
+| Academic year | Certified hours | Subjects taught |
+|:---|---:|:---|
+| **2024–2025** | **33 h** | Forensic Entomology; Management of Human-modified Ecosystems |
+| **2023–2024** | **58 h** | Animal Anatomy; General Biology; Ecology and Human Well-being; Environmental Consultancy and Planning Workshop; Management of Human-modified Ecosystems; Habitat Improvements for Wildlife |
+| **2022–2023** | **43 h** | Ecology; Ecology and Human Well-being; Environmental Consultancy and Planning Workshop |
+| **2021–2022** | **38 h** | Ecology; Environmental Criminalistics; Human-modified Ecosystems |
+| **2020–2021** | **38 h** | Zoology; Forensic Entomology; Biology |
+| **Total** | **210 h** | University of Alcalá |
+
+:::
+
+::: {.teaching-highlight}
+
+**How I teach**
+
+My certified activities include **seminars, practical classes, field trips and laboratory sessions**. The 2023–2024 departmental total also includes **6 hours of examination activities**. I am particularly interested in linking field observations, ecological questions and quantitative reasoning.
+
+:::
+
+### University of Seniors · Natural Sciences
+
+Since the 2019–2020 academic year, I have also taught **Zoology II** in the University of Alcalá's **University of Seniors** programme, within the Natural Sciences pathway. This experience involves communicating zoology to adult learners with varied backgrounds.
+
+::: {.teaching-table-wrapper}
+
+| Academic year | Documented hours |
+|:---|---:|
+| **2022–2023** | 6 h |
+| **2021–2022** | 4.5 h |
+| **2020–2021** | 6 h |
+| **2019–2020** | 4.5 h |
+| **Total** | **21 h** |
+
+:::
+
+In **2022–2023**, I also served as **coordinator of Zoology II**, as stated in the programme certificate.
+
+::: {.teaching-evidence-note}
+
+**About the figures:** The 231 hours comprise 210 hours recorded in UAH departmental teaching certificates and 21 hours in University of Seniors certificates. Repeated copies of the same certificates were counted only once. Hours assigned but not confirmed in the final teaching certificate are not included. Research supervision, science outreach and invited talks are reported separately, not added to the teaching total. The supporting certificates are retained privately rather than published on this website.
+
+:::
+
+## Student supervision
+
+I have participated in the supervision of **nine undergraduate and master's dissertations (2021–2023)**, spanning species interactions, invasive-species management, animal movement and behaviour, habitat selection, and wildlife conservation.
+
+### Master's dissertations
 
 ::: {.supervision-list}
 ::: {.supervision-item}
@@ -62,7 +119,7 @@ Supervision period
 :::
 :::
 
-## Undergraduate dissertations
+### Undergraduate dissertations
 
 ::: {.supervision-list}
 ::: {.supervision-item}

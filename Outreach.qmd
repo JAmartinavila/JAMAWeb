@@ -1,5 +1,5 @@
 ---
-title: "Divulgación | Science outreach"
+title: "Communication"
 page-layout: full
 ---
 
