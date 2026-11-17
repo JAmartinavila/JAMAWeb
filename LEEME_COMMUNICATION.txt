@@ -1,0 +1,22 @@
+JAMAWeb · Communication update · 17 November 2026
+
+Replace these three project files (in the root of your Quarto website):
+  - Outreach.qmd  — rewritten Communication content
+  - styles.css   — based on the LATEST Teaching & Supervision package, plus FameLab 2-column layout
+  - _quarto.yml  — navbar label 'Communication' instead of 'Divulgación'
+
+Preserved: all previous media and research press links, tawny owl story and streaming
+links, contact area, and CSS changes for Teaching & Supervision.
+
+Changes:
+  * Page title/subtitle labels in English: Communication.
+  * SEO/BirdLife contribution explicitly described as 24-h nest-box streaming in 2024–2025.
+  * FameLab 2020: all 3 interviews, FECYT announcement and RNE radio card together.
+  * New public-engagement timeline: Liendo 2024, CELÁNICA 2023, European
+    Researchers' Night 2022 (talk), Science & Innovation Week 2021–2022.
+  * TV Galicia programme is ALREADY included in its existing Podcasts & television
+    card, dated 25 September 2021 according to that card/link. Not duplicated.
+  * No verified URLs supplied for CELÁNICA or Liendo, so no invented links.
+
+These files are meant to be MERGED into your project, not a complete website.
+After replacing, run Quarto render or preview, and commit/push changes to deploy.
