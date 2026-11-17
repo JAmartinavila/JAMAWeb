@@ -1,0 +1,12 @@
+CORRECCIÓN DE LA PORTADA — JAMAWeb
+
+1. En GitHub Desktop verifica Current repository = JAMAWeb.
+2. Abre Repository > Show in Explorer.
+3. Extrae el ZIP y copia index.qmd a la RAÍZ del repositorio, reemplazando el existente.
+4. En GitHub Desktop verifica que SOLO index.qmd figura modificado.
+5. Commit to main > Push origin.
+6. En GitHub Actions comprueba Quarto Publish y visita tu web (Ctrl+F5).
+
+Cambios: bloque HTML explícito para que Quarto no muestre código en la portada; se elimina la descripción visible accidental en el encabezado (la descripción SEO sigue en _quarto.yml). Se conserva foto circular y lema actual.
+
+Comprobación: validado con Pandoc (parser Markdown/raw HTML) y estructura del HTML. Quarto completo no está instalado en este entorno.
