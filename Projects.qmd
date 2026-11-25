@@ -1,12 +1,12 @@
 ---
-title: "Research projects"
-description: "Research projects and fieldwork by Jorge A. Martín-Ávila, covering animal ecology, biodiversity, and ecosystem services."
+title: "Research & Fieldwork"
+description: "Scientific research projects, ecological field studies and hands-on conservation experience by Jorge A. Martín-Ávila."
 listing:
   contents: projects
   type: grid
   categories: true
-  sort: "date desc"
 ---
 
-Research ranging from species interactions and biodiversity to ecosystem services, developed through collaborations and extensive fieldwork.
+Research and fieldwork have shaped the way I approach ecological questions. Here you can explore both **research projects** and **hands-on conservation experience**, including four weeks of sea turtle conservation volunteering with BIOS Cabo Verde in 2018.
 
+The individual project pages distinguish scientific research roles from volunteer contributions.

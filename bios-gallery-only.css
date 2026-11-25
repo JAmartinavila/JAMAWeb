@@ -1,0 +1,33 @@
+/* BIOS field photo journal — responsive, all images link to their originals */
+.bios-gallery .section-heading { margin-bottom:2.5rem; }
+.bios-gallery a img { transition:filter .2s ease, transform .3s ease; }
+.bios-gallery a:hover img { filter:brightness(.96); }
+.bios-photo-kicker { display:block; font-size:.66rem; color:#628c70; letter-spacing:.15em; font-weight:800; text-transform:uppercase; margin-bottom:.8rem; }
+.bios-gallery-feature { display:grid; grid-template-columns:minmax(0,1.22fr) minmax(250px,.78fr); align-items:center; gap:clamp(1.4rem,4vw,3.4rem); margin:0 0 3.2rem; }
+.bios-gallery-feature>a { display:block; min-width:0; }
+.bios-gallery-feature img { display:block; width:100%; aspect-ratio:16/10; height:auto; object-fit:cover; border-radius:5px; }
+.bios-gallery-feature figcaption { max-width:470px; font-size:1rem; color:#52665a; line-height:1.86; }
+.bios-gallery-feature figcaption strong { display:block; font:400 clamp(1.5rem,2.6vw,2.15rem)/1.28 var(--serif); color:var(--forest-dark); margin-bottom:.8rem; }
+.bios-gallery-mosaic { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:2.8rem 1.25rem; }
+.bios-photo-tile { margin:0; min-width:0; }
+.bios-photo-tile a { display:block; overflow:hidden; border-radius:5px; }
+.bios-photo-tile img { width:100%; aspect-ratio:3/2; height:auto; object-fit:cover; display:block; }
+.bios-photo-tile-portrait img { aspect-ratio:4/4.6; object-position:center; }
+.bios-photo-tile figcaption { padding:.9rem .2rem 0; line-height:1.7; color:#53685c; font-size:.89rem; }
+.bios-photo-tile figcaption strong { color:var(--forest-dark); display:block; font:400 1.42rem/1.3 var(--serif); margin:.15rem 0 .48rem; }
+.bios-gallery-outro { display:grid; grid-template-columns:minmax(0,1.55fr) minmax(0,.75fr); align-items:start; gap:1.3rem; margin-top:3.5rem; }
+.bios-gallery-outro figure { margin:0; min-width:0; }
+.bios-gallery-outro a { display:block; overflow:hidden; border-radius:5px; }
+.bios-gallery-outro img { width:100%; display:block; object-fit:cover; }
+.bios-gallery-ocean img { aspect-ratio:16/9; }
+.bios-gallery-candid img { aspect-ratio:4/5; }
+.bios-gallery-outro figcaption { color:#53685c; font-size:.88rem; line-height:1.75; padding:1rem .15rem 0; }
+.bios-gallery-outro figcaption strong { display:block; font:400 1.45rem/1.3 var(--serif); color:var(--forest-dark); margin:.15rem 0 .45rem; }
+.bios-photo-credit { border-top:1px solid var(--line); margin:2.7rem 0 0; padding-top:1rem; color:var(--muted); font-size:.72rem; line-height:1.7; }
+.bios-hero-photo img { object-position: 50% 48%; }
+@media(max-width:760px){
+  .bios-gallery-feature,.bios-gallery-outro { grid-template-columns:1fr; gap:1.4rem; }
+  .bios-gallery-mosaic { grid-template-columns:1fr; }
+  .bios-photo-tile-portrait img { aspect-ratio:4/3; }
+  .bios-gallery-candid { max-width:450px; }
+}

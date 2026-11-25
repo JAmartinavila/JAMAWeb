@@ -1,0 +1,31 @@
+BIOS CABO VERDE · JAMAWeb · página fotográfica 2018
+=================================================
+
+CONTENIDO DEL ZIP
+- projects/BiosCV.qmd — página Quarto completa, con tus 8 fotos y pies de foto en inglés
+- projects/boa-vista-2018-*.jpg — copias optimizadas para publicar (tus originales NO se modificaron)
+- styles.css — CSS completo, basado en la última versión disponible de Communication/Teaching + estilos BIOS
+- bios-styles-extra.css — TODOS los estilos BIOS, para usar si tu web todavía no tiene la sección BIOS
+- bios-gallery-only.css — SOLO los nuevos estilos de la galería (recomendado si ya instalaste la primera versión BIOS)
+- Projects.qmd — índice de proyectos opcional (Research & Fieldwork)
+- BIOS_Cabo_Verde_fotos_vista_previa.html — vista previa autónoma con imágenes integradas
+
+INSTALACIÓN
+1. Copia projects/BiosCV.qmd y los 8 archivos projects/boa-vista-2018-*.jpg a la carpeta 'projects' de JAMAWeb.
+2. Si ya habías incorporado la versión anterior de BIOS, añade AL FINAL de styles.css únicamente bios-gallery-only.css.
+   Si nunca habías incorporado BIOS, añade bios-styles-extra.css al final de styles.css.
+   Usa styles.css completo del ZIP solo si NO has modificado tu CSS desde el paquete anterior.
+3. Opcional: sustituye Projects.qmd para renombrar el listado principal a Research & Fieldwork; evita hacerlo si has seguido modificándolo desde entonces.
+4. Abre projects/BiosCV.qmd en Quarto y renderiza tu web; confirma las rutas y publica desde GitHub Desktop.
+
+DETALLES IMPORTANTES
+- En las fotos no hay ninguna fotografía del campamento bajo la acacia; el texto se basa en tu testimonio.
+- El pie de la fotografía informal alude a la vida entre turnos, sin atribuir la captura del pez a una actividad del proyecto.
+- El programa BIOS se describe como iniciativa de la organización; tu participación como voluntario queda separada.
+- 'Four weeks', '6 km' y los horarios proceden de tu relato personal; el dossier público de BIOS también describe los turnos, pero es posterior a 2018.
+- Los textos de fotos son de carácter narrativo, evitando atribuir datos o resultados científicos no documentados.
+
+Fuentes oficiales consultadas para el contexto general:
+https://bioscaboverde.com/tartarugas/
+https://bioscaboverde.com/voluntariado/
+https://bioscaboverde.com/wp-content/uploads/2023/01/INTERNATIONAL-VOLUNTEERING-dossier-english-1.pdf
