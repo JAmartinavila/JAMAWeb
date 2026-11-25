@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jamartinavila.github.io/JAMAWeb/Outreach.html</loc>
-    <lastmod>2026-11-17T20:42:34.587Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jamartinavila.github.io/JAMAWeb/Supervision.html</loc>
-    <lastmod>2026-11-17T20:42:34.588Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jamartinavila.github.io/JAMAWeb/posts/Carabo.html</loc>
-    <lastmod>2026-11-17T20:42:34.591Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jamartinavila.github.io/JAMAWeb/projects/BiosCV.html</loc>
-    <lastmod>2026-11-17T20:42:34.645Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jamartinavila.github.io/JAMAWeb/projects/EVALUAVE.html</loc>
-    <lastmod>2026-11-17T20:42:34.647Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jamartinavila.github.io/JAMAWeb/Publications.html</loc>
-    <lastmod>2026-11-17T20:42:34.587Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jamartinavila.github.io/JAMAWeb/About.html</loc>
-    <lastmod>2026-11-17T20:42:34.585Z</lastmod>
+    <loc>https://jamartinavila.github.io/JAMAWeb/Blog.html</loc>
+    <lastmod>2026-11-25T19:41:28.039Z</lastmod>
   </url>
   <url>
     <loc>https://jamartinavila.github.io/JAMAWeb/projects/QUEVAIDS.html</loc>
-    <lastmod>2026-11-17T20:42:34.648Z</lastmod>
+    <lastmod>2026-11-25T19:41:28.079Z</lastmod>
   </url>
   <url>
-    <loc>https://jamartinavila.github.io/JAMAWeb/Blog.html</loc>
-    <lastmod>2026-11-17T20:42:34.585Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jamartinavila.github.io/JAMAWeb/Projects.html</loc>
-    <lastmod>2026-11-17T20:42:34.587Z</lastmod>
+    <loc>https://jamartinavila.github.io/JAMAWeb/projects/BiosCV.html</loc>
+    <lastmod>2026-11-25T19:41:28.078Z</lastmod>
   </url>
   <url>
     <loc>https://jamartinavila.github.io/JAMAWeb/index.html</loc>
-    <lastmod>2026-11-17T20:42:34.589Z</lastmod>
+    <lastmod>2026-11-25T19:41:28.043Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jamartinavila.github.io/JAMAWeb/Supervision.html</loc>
+    <lastmod>2026-11-25T19:41:28.042Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jamartinavila.github.io/JAMAWeb/Projects.html</loc>
+    <lastmod>2026-11-25T19:41:28.040Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jamartinavila.github.io/JAMAWeb/posts/Carabo.html</loc>
+    <lastmod>2026-11-25T19:41:28.043Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jamartinavila.github.io/JAMAWeb/About.html</loc>
+    <lastmod>2026-11-25T19:41:28.005Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jamartinavila.github.io/JAMAWeb/Outreach.html</loc>
+    <lastmod>2026-11-25T19:41:28.040Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jamartinavila.github.io/JAMAWeb/projects/EVALUAVE.html</loc>
+    <lastmod>2026-11-25T19:41:28.079Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jamartinavila.github.io/JAMAWeb/Publications.html</loc>
+    <lastmod>2026-11-25T19:41:28.040Z</lastmod>
   </url>
 </urlset>

@@ -8,9 +8,9 @@
   {
     "listing": "/Projects.html",
     "items": [
+      "/projects/BiosCV.html",
       "/projects/EVALUAVE.html",
-      "/projects/QUEVAIDS.html",
-      "/projects/BiosCV.html"
+      "/projects/QUEVAIDS.html"
     ]
   }
 ]
