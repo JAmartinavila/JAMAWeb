@@ -1,0 +1,34 @@
+JAMAWeb · REDISEÑO RESEARCH & FIELDWORK + FOTOS BIOS (2026)
+===============================================================
+
+ARCHIVOS A INSTALAR (sin perder cambios de otras páginas)
+1. Sustituye Projects.qmd por el incluido aquí (en la raíz de JAMAWeb).
+   Este archivo ELIMINA el listado automático de Quarto y presenta un índice editorial
+   con tarjetas EVALUAVE, QueVADIS y una historia destacada de BIOS Cabo Verde.
+2. Sustituye projects/BiosCV.qmd (mantiene textos/fotos previos).
+3. Comprueba que estén en projects/ los 10 JPG incluidos. Las dos imágenes de EVALUAVE
+   y QueVADIS ya existían en el proyecto original: NO hace falta sustituirlas si siguen allí.
+4. COPIA el texto de research-bios-redesign.css AL FINAL de TU styles.css actual.
+   NO reemplaces el CSS completo si has seguido editando Communication o Teaching.
+   El archivo styles.css del ZIP es solo una versión de referencia combinada.
+5. Quarto: Render Website. Publica con GitHub Desktop.
+
+VISTAS PREVIAS:
+- Preview_Research_Fieldwork.html -> nueva portada Research & Fieldwork.
+- Preview_BIOS_fotos_ajustadas.html -> página BIOS con fotos limitadas a contenido.
+- Las vistas previas HTML sueltas contienen las imágenes integradas y abren sin configurar Quarto.
+
+QUÉ SE HA CORREGIDO
+- Todas las imágenes visibles se limitan al ancho de la página o columna.
+- Alturas máximas de 295–340px para fotos de la galería y 450px en portada BIOS.
+- En móvil, la cuadrícula pasa a una columna y las imágenes siguen contenidas.
+- Research usa portada editorial con fotografía real, proyectos en tarjetas visuales
+  y un bloque narrativo de BIOS Cabo Verde.
+- No se han añadido proyectos ni atribuido resultados/roles no acreditados.
+- Las fotos de la galería siguen enlazadas al JPG original en nueva pestaña para quien
+  quiera ampliarlas; dentro de la web no se muestran a tamaño original.
+
+ATENCIÓN
+El sitio actual puede tener cambios no incluidos en nuestros archivos de referencia.
+Este paquete evita modificar _quarto.yml y cualquier otra página del sitio.
+Si ya habías añadido este CSS una vez, no lo dupliques.
