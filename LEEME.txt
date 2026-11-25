@@ -1,32 +1,30 @@
-JAMAWeb — Añadir sección Student supervision
-=================================================
+JAMAWeb · RESEARCH & FIELDWORK — CATÁLOGO ORDENADO (noviembre 2026)
+===================================================================
 
-ARCHIVOS PARA COPIAR EN LA RAÍZ DE TU REPOSITORIO CLONADO (GitHub Desktop):
-- Supervision.qmd  (NUEVO)
-- _quarto.yml     (REEMPLAZAR: añade entrada Supervision al menú)
-- About.qmd       (REEMPLAZAR: añade enlace desde el perfil)
-- styles.css      (REEMPLAZAR: incorpora estilos, conserva la divulgación)
+QUÉ CAMBIA
+- Hay SOLO TRES ENTRADAS, una por proyecto: EVALUAVE, QueVADIS y BIOS Cabo Verde.
+- El encabezado ya no repite fotografías ni presenta un segundo bloque de BIOS.
+- Cada tarjeta completa es UN enlace clicable a su página correspondiente.
+- Todas las imágenes se ajustan a su contenedor, con altura máxima de 245 px
+  en ordenador; en móvil se adaptan a una sola columna.
+- Los diagramas EVALUAVE/QueVADIS se muestran completos (object-fit: contain).
+- La fotografía de BIOS ocupa una tarjeta del mismo tamaño (object-fit: cover).
+- Se conserva el diseño editorial y los enlaces existentes.
 
-NO copies estos PDF al repositorio: son trabajos de estudiantes, algunos firmados y con
-correos o datos personales. La nueva web publica únicamente la referencia de cada
-trabajo, sus autores y tu papel de supervisión documentado.
+INSTALACIÓN
+1) Sustituir Projects.qmd en la raíz de JAMAWeb.
+2) Abrir styles.css y añadir al FINAL el contenido de research-index-v3.css.
+   No sustituir todo styles.css; esta hoja CSS usa nuevas clases rf-* para
+   evitar conflictos incluso si está aplicado el diseño anterior.
+3) Asegurar que en projects/ existen EVALUAVE.jpg, QUEVADIS.jpg y
+   boa-vista-2018-fieldwork.jpg. Van incluidos en el ZIP como respaldo.
+4) Mantener sin cambios projects/BiosCV.qmd y su galería de fotos.
+5) Quarto -> Render Website. Publicar los archivos habituales con GitHub Desktop.
 
-INSTRUCCIONES
-1. Haz copia de seguridad de esos archivos actuales.
-2. Abre GitHub Desktop y comprueba Current repository: JAMAWeb.
-3. Repository > Show in Explorer, pega allí los cuatro archivos, sin tocar .git.
-4. En Changes confirma estos 4 archivos; Commit to main y Push origin.
-5. Comprueba GitHub Actions / Quarto Publish. Si falla, comparte el registro.
-6. Verifica la pestaña Supervision y el enlace desde About.
-
-CONTENIDO
-- Nueve proyectos (7 TFG y 2 TFM) con el título original, estudiante,
-  titulación, año, universidad y función de supervisión.
-- No se suben PDF de alumnos ni se inventan URLs de descarga.
-- Los certificados de docencia no se integran todavía.
-
-NOTA DE CONTEXTO
-Se ha partido de la versión de la web que veníamos editando en la conversación,
-con el menú Divulgación y el archivo styles.css de la última actualización.
-Si has hecho modificaciones adicionales en tu equipo sobre esos archivos, usa la
-comparación de GitHub Desktop antes de reemplazarlos para conservarlas.
+NOTAS
+- El archivo del proyecto forestal se llama QUEVAIDS.qmd en tu repositorio:
+  por eso el enlace apunta correctamente a projects/QUEVAIDS.html.
+- El HTML de vista previa es solo para revisar; NO subirlo al repositorio.
+- Si quieres retirar el CSS del diseño anterior, puedes borrar de styles.css
+  el bloque que empieza por "JAMAWeb 2026 — Research & Fieldwork editorial redesign".
+  No es necesario: el nuevo índice usa selectores distintos.

@@ -1,97 +1,76 @@
 ---
 title: "Research & Fieldwork"
-description: "Research on ecological interactions, ecosystem services, and conservation fieldwork by Jorge A. Martín-Ávila."
+description: "Explore Jorge A. Martín-Ávila's research in avian ecology and oak regeneration, alongside conservation fieldwork in Cabo Verde."
 page-layout: full
 ---
 
 ```{=html}
-<section class="research-hero" aria-labelledby="research-title">
-  <div class="section-width research-hero-inner">
-    <div class="research-hero-copy">
-      <span class="eyebrow"><span class="dot"></span> ECOLOGY · RESEARCH · CONSERVATION</span>
-      <h1 id="research-title">Questions in nature.<br><em>Answers in the field.</em></h1>
-      <p class="research-hero-lead">I study how species interact, how ecological processes shape landscapes, and what those relationships mean for biodiversity and the services ecosystems provide.</p>
-      <p class="research-hero-sub">From bird-mediated ecosystem services and oak regeneration to hands-on sea turtle conservation, each project begins with curiosity about the natural world.</p>
-      <a class="research-hero-button" href="#research-projects">Explore the work <span aria-hidden="true">↗</span></a>
+<div class="rf-index" aria-labelledby="rf-index-title">
+  <header class="rf-intro">
+    <div class="rf-container rf-intro-inner">
+      <div>
+        <span class="rf-kicker"><span class="rf-kicker-line" aria-hidden="true"></span> ECOLOGY &amp; CONSERVATION</span>
+        <h1 id="rf-index-title">Research <span class="rf-amp">&amp;</span><br><em>Fieldwork.</em></h1>
+      </div>
+      <div class="rf-intro-aside">
+        <span class="rf-intro-label">EXPLORE THE WORK</span>
+        <p>From the roles of birds in ecosystems to woodland regeneration and hands-on wildlife conservation, discover the questions and field experiences that have shaped my work.</p>
+        <span class="rf-index-count">THREE PROJECTS <span aria-hidden="true">/</span> ONE SHARED CURIOSITY</span>
+      </div>
     </div>
-    <div class="research-hero-visual" aria-label="Photographs from fieldwork in Boa Vista">
-      <figure class="research-hero-main-photo">
-        <img src="projects/boa-vista-2018-fieldwork.jpg" alt="Jorge working beside a loggerhead sea turtle on a beach in Boa Vista" fetchpriority="high">
-        <figcaption>BOA VISTA · CAPE VERDE · 2018</figcaption>
-      </figure>
-      <div class="research-hero-vertical-note" aria-hidden="true">FIELD NOTES / 01—03</div>
-      <figure class="research-hero-inset">
-        <img src="projects/boa-vista-2018-hatchling.jpg" alt="Loggerhead sea turtle hatchling on sand" loading="lazy">
-      </figure>
-    </div>
-  </div>
-</section>
+  </header>
 
-<div class="research-topics" aria-label="Research themes">
-  <div class="section-width research-topics-inner">
-    <span>01&nbsp; Species interactions</span>
-    <span>02&nbsp; Ecosystem services</span>
-    <span>03&nbsp; Conservation ecology</span>
-  </div>
+  <section class="rf-container rf-list" aria-labelledby="rf-list-title">
+    <div class="rf-list-header">
+      <h2 id="rf-list-title">Selected projects</h2>
+      <span>01 — 03</span>
+    </div>
+
+    <div class="rf-grid">
+      <a class="rf-card rf-card-evaluave" href="projects/EVALUAVE.html" aria-label="Explore EVALUAVE project">
+        <div class="rf-card-media rf-card-media-diagram">
+          <img src="projects/EVALUAVE.jpg" alt="Scientific illustration associated with the EVALUAVE avian ecosystem services project" loading="eager">
+          <span class="rf-card-number">01</span>
+        </div>
+        <div class="rf-card-content">
+          <span class="rf-card-type">RESEARCH · AVIAN ECOLOGY</span>
+          <h3>EVALUAVE</h3>
+          <p>Assessing the functions of birds and the ecosystem services they provide in agroforestry systems.</p>
+          <span class="rf-card-action">Explore project <span class="rf-arrow" aria-hidden="true">↗</span></span>
+        </div>
+      </a>
+
+      <a class="rf-card rf-card-quevadis" href="projects/QUEVAIDS.html" aria-label="Explore QueVADIS project">
+        <div class="rf-card-media rf-card-media-diagram">
+          <img src="projects/QUEVADIS.jpg" alt="Scientific illustration associated with acorn dispersal and oak colonisation in the QueVADIS project" loading="lazy">
+          <span class="rf-card-number">02</span>
+        </div>
+        <div class="rf-card-content">
+          <span class="rf-card-type">RESEARCH · FOREST ECOLOGY</span>
+          <h3>QueVADIS</h3>
+          <p>Exploring how acorn traits, seed dispersal and facilitation influence the colonisation of coexisting oak species.</p>
+          <span class="rf-card-action">Explore project <span class="rf-arrow" aria-hidden="true">↗</span></span>
+        </div>
+      </a>
+
+      <a class="rf-card rf-card-bios" href="projects/BiosCV.html" aria-label="Explore BIOS Cabo Verde fieldwork photo journal">
+        <div class="rf-card-media rf-card-media-photo">
+          <img src="projects/boa-vista-2018-fieldwork.jpg" alt="Jorge working beside an adult loggerhead sea turtle on a beach in Boa Vista, Cabo Verde" loading="lazy">
+          <span class="rf-card-number">03</span>
+        </div>
+        <div class="rf-card-content">
+          <span class="rf-card-type">FIELDWORK · CONSERVATION · 2018</span>
+          <h3>BIOS Cabo Verde</h3>
+          <p>Four weeks of conservation volunteering: turtle monitoring, nest protection, hatchling measurements and data work on Boa Vista.</p>
+          <span class="rf-card-action">Explore photo journal <span class="rf-arrow" aria-hidden="true">↗</span></span>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <footer class="rf-container rf-endnote">
+    <p>Curiosity in the field. Evidence for conservation.</p>
+    <a href="Publications.html">Explore publications <span aria-hidden="true">↗</span></a>
+  </footer>
 </div>
-
-<section id="research-projects" class="section-width research-projects" aria-labelledby="research-projects-heading">
-  <div class="research-section-header">
-    <div>
-      <span class="eyebrow">SELECTED RESEARCH</span>
-      <h2 id="research-projects-heading">Different questions.<br><em>A shared perspective.</em></h2>
-    </div>
-    <p>Work on the roles of birds in ecosystems and the processes that drive woodland regeneration. Explore the projects behind these questions.</p>
-  </div>
-
-  <div class="research-card-grid">
-    <a class="research-project-card" href="projects/EVALUAVE.html" aria-label="Read more about EVALUAVE">
-      <div class="research-project-image research-project-image-diagram">
-        <img src="projects/EVALUAVE.jpg" alt="Illustrated diagram of interactions between a European honey-buzzard and Asian hornets" loading="lazy">
-        <span class="research-image-index">01 / RESEARCH</span>
-      </div>
-      <div class="research-project-copy">
-        <span class="research-project-eyebrow">AVIAN ECOLOGY · ECOSYSTEM SERVICES</span>
-        <h3>EVALUAVE</h3>
-        <p>Assessing the functions of birds and the ecosystem services they provide in agroforestry systems.</p>
-        <span class="research-card-cta">Explore project <span aria-hidden="true">↗</span></span>
-      </div>
-    </a>
-    <a class="research-project-card" href="projects/QUEVAIDS.html" aria-label="Read more about QueVADIS">
-      <div class="research-project-image research-project-image-diagram">
-        <img src="projects/QUEVADIS.jpg" alt="Ecological diagram illustrating acorn dispersal, seedling recruitment and oak regeneration" loading="lazy">
-        <span class="research-image-index">02 / RESEARCH</span>
-      </div>
-      <div class="research-project-copy">
-        <span class="research-project-eyebrow">FOREST ECOLOGY · SEED DISPERSAL</span>
-        <h3>QueVADIS</h3>
-        <p>Understanding how acorn characteristics, dispersal and facilitation influence colonisation among coexisting oak species.</p>
-        <span class="research-card-cta">Explore project <span aria-hidden="true">↗</span></span>
-      </div>
-    </a>
-  </div>
-</section>
-
-<section class="research-field-band" aria-labelledby="research-field-heading">
-  <div class="section-width research-field-inner">
-    <div class="research-field-images">
-      <figure class="research-field-main"><img src="projects/boa-vista-2018-loggerhead-ocean.jpg" alt="Adult loggerhead sea turtle on the Atlantic shore" loading="lazy"></figure>
-      <figure class="research-field-small"><img src="projects/boa-vista-2018-hatchling-measurement.jpg" alt="A loggerhead hatchling being measured with a calliper" loading="lazy"></figure>
-      <span class="research-field-stamp">FIELD JOURNAL<br><strong>2018</strong></span>
-    </div>
-    <div class="research-field-copy">
-      <span class="research-field-label">CONSERVATION BEYOND THE LAB</span>
-      <h2 id="research-field-heading">Four weeks on<br>the <em>turtle coast.</em></h2>
-      <p>In 2018, I joined BIOS Cabo Verde as a conservation volunteer on Boa Vista. Night patrols, tagging and measuring loggerhead turtles, nest protection, hatchling monitoring and data management became part of the daily rhythm of a field camp by the sea.</p>
-      <div class="research-field-facts"><span><strong>4 weeks</strong> volunteering</span><span><strong>6 km</strong> monitored beach</span></div>
-      <a href="projects/BiosCV.html" class="research-field-link">Read the photo journal <span aria-hidden="true">↗</span></a>
-    </div>
-  </div>
-</section>
-
-<section class="section-width research-footer" aria-label="Research philosophy">
-  <span class="eyebrow">WHY IT MATTERS</span>
-  <p>Understanding ecological relationships is the first step towards protecting them.</p>
-  <a href="Publications.html">Explore publications <span aria-hidden="true">↗</span></a>
-</section>
 ```
