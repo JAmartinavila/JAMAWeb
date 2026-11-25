@@ -1,30 +1,25 @@
-JAMAWeb · RESEARCH & FIELDWORK — CATÁLOGO ORDENADO (noviembre 2026)
-===================================================================
+JAMAWeb · RESEARCH & FIELDWORK · CORRECCIÓN CSS (25/11/2026)
 
-QUÉ CAMBIA
-- Hay SOLO TRES ENTRADAS, una por proyecto: EVALUAVE, QueVADIS y BIOS Cabo Verde.
-- El encabezado ya no repite fotografías ni presenta un segundo bloque de BIOS.
-- Cada tarjeta completa es UN enlace clicable a su página correspondiente.
-- Todas las imágenes se ajustan a su contenedor, con altura máxima de 245 px
-  en ordenador; en móvil se adaptan a una sola columna.
-- Los diagramas EVALUAVE/QueVADIS se muestran completos (object-fit: contain).
-- La fotografía de BIOS ocupa una tarjeta del mismo tamaño (object-fit: cover).
-- Se conserva el diseño editorial y los enlaces existentes.
+QUÉ PASABA
+La página Projects.qmd se había actualizado en GitHub, pero las clases rf-* NO estaban
+incluidas en el styles.css publicado; por tanto, el HTML se veía sin la maquetación del preview.
+
+ARREGLO A PRUEBA DE OLVIDOS
+El nuevo Projects.qmd contiene sus propias reglas CSS dentro de un bloque HTML válido de
+Quarto. Ya NO hace falta pegar CSS en styles.css ni modificar _quarto.yml.
 
 INSTALACIÓN
-1) Sustituir Projects.qmd en la raíz de JAMAWeb.
-2) Abrir styles.css y añadir al FINAL el contenido de research-index-v3.css.
-   No sustituir todo styles.css; esta hoja CSS usa nuevas clases rf-* para
-   evitar conflictos incluso si está aplicado el diseño anterior.
-3) Asegurar que en projects/ existen EVALUAVE.jpg, QUEVADIS.jpg y
-   boa-vista-2018-fieldwork.jpg. Van incluidos en el ZIP como respaldo.
-4) Mantener sin cambios projects/BiosCV.qmd y su galería de fotos.
-5) Quarto -> Render Website. Publicar los archivos habituales con GitHub Desktop.
+1. Sustituir el Projects.qmd de la RAÍZ de JAMAWeb por este.
+2. Copiar las tres imágenes incluidas a JAMAWeb/projects/ (permitir sobrescritura).
+3. No sustituir styles.css, _quarto.yml ni las páginas individuales de los proyectos.
+4. Guardar, commit y push en GitHub Desktop. GitHub Actions publicará la nueva versión.
+5. Si sigue apareciendo la versión anterior, recargar la página con Ctrl+F5.
 
-NOTAS
-- El archivo del proyecto forestal se llama QUEVAIDS.qmd en tu repositorio:
-  por eso el enlace apunta correctamente a projects/QUEVAIDS.html.
-- El HTML de vista previa es solo para revisar; NO subirlo al repositorio.
-- Si quieres retirar el CSS del diseño anterior, puedes borrar de styles.css
-  el bloque que empieza por "JAMAWeb 2026 — Research & Fieldwork editorial redesign".
-  No es necesario: el nuevo índice usa selectores distintos.
+NOTA
+research-index-v3.css se incluye como referencia editable; NO hace falta instalarlo.
+No pegarlo también en styles.css para evitar duplicar las reglas.
+
+LINKS DE LOS TRES PROYECTOS
+projects/EVALUAVE.html
+projects/QUEVAIDS.html (nombre heredado del archivo existente)
+projects/BiosCV.html
