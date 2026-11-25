@@ -1,6 +1,6 @@
 ---
 title: "Research & Fieldwork"
-description: "Explore Jorge A. Martín-Ávila's research in avian ecology and oak regeneration, alongside conservation fieldwork in Cabo Verde."
+title-block-banner: false
 page-layout: full
 ---
 
